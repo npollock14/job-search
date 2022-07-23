@@ -1,0 +1,4609 @@
+{
+    "companies": [
+        {
+            "name": "radix trading",
+            "icon": "https://i.imgur.com/dHJAaFm.png",
+            "average": 100
+        },
+        {
+            "name": "arrowstreet capital",
+            "icon": "https://i.imgur.com/natacay.png",
+            "average": 96
+        },
+        {
+            "name": "jane street",
+            "icon": "https://i.imgur.com/WinSVIN.png",
+            "average": 94
+        },
+        {
+            "name": "hudson river trading",
+            "icon": "https://logo.clearbit.com/HudsonRiverTrading.com",
+            "average": 91
+        },
+        {
+            "name": "five rings",
+            "icon": "https://fiverings.com/wp-content/themes/five-rings/img/FiveRings-logo.svg",
+            "average": 88
+        },
+        {
+            "name": "citadel",
+            "icon": "https://i.imgur.com/fhsQVd8.png",
+            "average": 79
+        },
+        {
+            "name": "akuna capital",
+            "icon": "https://logo.clearbit.com/akunacapital.com",
+            "average": 75
+        },
+        {
+            "name": "d.e. shaw",
+            "icon": "https://logo.clearbit.com/deshaw.com",
+            "average": 75
+        },
+        {
+            "name": "retool",
+            "icon": "https://logo.clearbit.com/Retool.com",
+            "average": 75
+        },
+        {
+            "name": "drw",
+            "icon": "https://logo.clearbit.com/drw.com",
+            "average": 72
+        },
+        {
+            "name": "optiver",
+            "icon": "https://logo.clearbit.com/Optiver.com",
+            "average": 72
+        },
+        {
+            "name": "jump trading",
+            "icon": "https://logo.clearbit.com/JumpTrading.com",
+            "average": 71
+        },
+        {
+            "name": "opensea",
+            "icon": "https://i.imgur.com/vIjfPo6.png",
+            "average": 71
+        },
+        {
+            "name": "g-research",
+            "icon": "https://logo.clearbit.com/https:/www.gresearch.co.uk/",
+            "average": 69
+        },
+        {
+            "name": "schonfeld",
+            "icon": "https://www.schonfeld.com/static/media/schonfeld-logo.5f3d464e.svg",
+            "average": 69
+        },
+        {
+            "name": "two sigma",
+            "icon": "https://logo.clearbit.com/TwoSigma.com",
+            "average": 69
+        },
+        {
+            "name": "netflix",
+            "icon": "https://logo.clearbit.com/netflix.com",
+            "average": 67
+        },
+        {
+            "name": "imc trading",
+            "icon": "https://logo.clearbit.com/imc.com",
+            "average": 66
+        },
+        {
+            "name": "stitch fix",
+            "icon": "https://logo.clearbit.com/StitchFix.com",
+            "average": 66
+        },
+        {
+            "name": "kensho",
+            "icon": "https://logo.clearbit.com/Kensho.com",
+            "average": 64
+        },
+        {
+            "name": "virtu financial",
+            "icon": "https://logo.clearbit.com/VirtuFinancial.com",
+            "average": 64
+        },
+        {
+            "name": "blueshift",
+            "icon": "https://logo.clearbit.com/Blueshift.com",
+            "average": 63
+        },
+        {
+            "name": "dfinity",
+            "icon": "https://logo.clearbit.com/Dfinity.com",
+            "average": 63
+        },
+        {
+            "name": "rippling",
+            "icon": "https://logo.clearbit.com/Rippling.com",
+            "average": 63
+        },
+        {
+            "name": "78 capital",
+            "icon": "https://imgur.com/Lz1pvCe.png",
+            "average": 62
+        },
+        {
+            "name": "moveworks",
+            "icon": "https://logo.clearbit.com/Moveworks.com",
+            "average": 62
+        },
+        {
+            "name": "systematic",
+            "icon": "https://i.imgur.com/gEUXJK9.png",
+            "average": 62
+        },
+        {
+            "name": "aqr",
+            "icon": "https://logo.clearbit.com/AQR.com",
+            "average": 61
+        },
+        {
+            "name": "asana",
+            "icon": "https://i.imgur.com/N4pfdnB.png",
+            "average": 61
+        },
+        {
+            "name": "ribbon home",
+            "icon": "https://logo.clearbit.com/RibbonHome.com",
+            "average": 61
+        },
+        {
+            "name": "bridgewater associates",
+            "icon": "https://logo.clearbit.com/BridgewaterAssociates.com",
+            "average": 60
+        },
+        {
+            "name": "opengov",
+            "icon": "https://logo.clearbit.com/OpenGov.com",
+            "average": 60
+        },
+        {
+            "name": "paravision",
+            "icon": "https://imgur.com/sFkBOrQ.png",
+            "average": 60
+        },
+        {
+            "name": "qorvo",
+            "icon": "https://logo.clearbit.com/Qorvo.com",
+            "average": 60
+        },
+        {
+            "name": "quantco",
+            "icon": "https://logo.clearbit.com/QuantCo.com",
+            "average": 60
+        },
+        {
+            "name": "ramp",
+            "icon": "https://logo.clearbit.com/Ramp.com",
+            "average": 60
+        },
+        {
+            "name": "anaplan",
+            "icon": "https://logo.clearbit.com/Anaplan.com",
+            "average": 59
+        },
+        {
+            "name": "millennium management",
+            "icon": "https://i.imgur.com/siNIOwH.png",
+            "average": 59
+        },
+        {
+            "name": "sig",
+            "icon": "https://logo.clearbit.com/sig.com",
+            "average": 59
+        },
+        {
+            "name": "cloudera",
+            "icon": "https://logo.clearbit.com/Cloudera.com",
+            "average": 58
+        },
+        {
+            "name": "level",
+            "icon": "https://logo.clearbit.com/Level.com",
+            "average": 58
+        },
+        {
+            "name": "lob",
+            "icon": "https://logo.clearbit.com/Lob.com",
+            "average": 58
+        },
+        {
+            "name": "lyft",
+            "icon": "https://logo.clearbit.com/Lyft.com",
+            "average": 58
+        },
+        {
+            "name": "oscar health",
+            "icon": "https://logo.clearbit.com/OscarHealth.com",
+            "average": 58
+        },
+        {
+            "name": "reverie labs",
+            "icon": "https://logo.clearbit.com/https://www.reverielabs.com/",
+            "average": 58
+        },
+        {
+            "name": "roblox",
+            "icon": "https://logo.clearbit.com/Roblox.com",
+            "average": 58
+        },
+        {
+            "name": "embark trucks",
+            "icon": "https://logo.clearbit.com/EmbarkTrucks.com",
+            "average": 57
+        },
+        {
+            "name": "nuro",
+            "icon": "https://i.imgur.com/9b4jtkA.png",
+            "average": 57
+        },
+        {
+            "name": "benchling",
+            "icon": "https://logo.clearbit.com/Benchling.com",
+            "average": 56
+        },
+        {
+            "name": "better.com",
+            "icon": "https://imgur.com/ZRTf3Wg.png",
+            "average": 56
+        },
+        {
+            "name": "bosch",
+            "icon": "https://logo.clearbit.com/Bosch.com",
+            "average": 56
+        },
+        {
+            "name": "braze",
+            "icon": "https://logo.clearbit.com/Braze.com",
+            "average": 56
+        },
+        {
+            "name": "factual",
+            "icon": "https://logo.clearbit.com/Factual.com",
+            "average": 56
+        },
+        {
+            "name": "niantic",
+            "icon": "https://i.imgur.com/6wPnseT.png",
+            "average": 56
+        },
+        {
+            "name": "observe",
+            "icon": "https://logo.clearbit.com/https:/www.observeinc.com/",
+            "average": 56
+        },
+        {
+            "name": "okta",
+            "icon": "https://logo.clearbit.com/Okta.com",
+            "average": 56
+        },
+        {
+            "name": "plaid",
+            "icon": "https://logo.clearbit.com/Plaid.com",
+            "average": 56
+        },
+        {
+            "name": "the voloen group",
+            "icon": "https://i.imgur.com/frHgQKx.png",
+            "average": 56
+        },
+        {
+            "name": "algorand",
+            "icon": "https://logo.clearbit.com/Algorand.com",
+            "average": 55
+        },
+        {
+            "name": "brex",
+            "icon": "https://logo.clearbit.com/Brex.com",
+            "average": 55
+        },
+        {
+            "name": "chicago trading company",
+            "icon": "https://www.chicagotrading.com/assets/img/global/logo.png",
+            "average": 55
+        },
+        {
+            "name": "coalition",
+            "icon": "https://i.imgur.com/x2xCdhC.png",
+            "average": 55
+        },
+        {
+            "name": "deepmind",
+            "icon": "https://logo.clearbit.com/DeepMind.com",
+            "average": 55
+        },
+        {
+            "name": "illumio",
+            "icon": "https://logo.clearbit.com/http:/www.illumio.com/",
+            "average": 55
+        },
+        {
+            "name": "innopeak",
+            "icon": "https://i.imgur.com/qonpaet.png",
+            "average": 55
+        },
+        {
+            "name": "one medical",
+            "icon": "https://logo.clearbit.com/OneMedical.com",
+            "average": 55
+        },
+        {
+            "name": "pixar",
+            "icon": "https://logo.clearbit.com/Pixar.com",
+            "average": 55
+        },
+        {
+            "name": "postmates",
+            "icon": "https://logo.clearbit.com/Postmates.com",
+            "average": 55
+        },
+        {
+            "name": "scale ai",
+            "icon": "https://logo.clearbit.com/ScaleAI.com",
+            "average": 55
+        },
+        {
+            "name": "upstart",
+            "icon": "https://logo.clearbit.com/Upstart.com",
+            "average": 55
+        },
+        {
+            "name": "audible",
+            "icon": "https://logo.clearbit.com/audible.com",
+            "average": 54
+        },
+        {
+            "name": "aws",
+            "icon": "https://logo.clearbit.com/AWS.com",
+            "average": 54
+        },
+        {
+            "name": "bosch center for artificial intelligence",
+            "icon": "https://logo.clearbit.com/https://www.bosch-ai.com/",
+            "average": 54
+        },
+        {
+            "name": "delta air lines",
+            "icon": "https://logo.clearbit.com/delta.com",
+            "average": 54
+        },
+        {
+            "name": "gusto",
+            "icon": "https://logo.clearbit.com/Gusto.com",
+            "average": 54
+        },
+        {
+            "name": "modern treasury",
+            "icon": "https://logo.clearbit.com/ModernTreasury.com",
+            "average": 54
+        },
+        {
+            "name": "riot games",
+            "icon": "https://logo.clearbit.com/riotgames.com",
+            "average": 54
+        },
+        {
+            "name": "yugabyte",
+            "icon": "https://logo.clearbit.com/Yugabyte.com",
+            "average": 54
+        },
+        {
+            "name": "zoox",
+            "icon": "https://i.imgur.com/2cGC3ZQ.png",
+            "average": 54
+        },
+        {
+            "name": "a10 networks",
+            "icon": "https://logo.clearbit.com/A10Networks.com",
+            "average": 53
+        },
+        {
+            "name": "capital one",
+            "icon": "https://logo.clearbit.com/CapitalOne.com",
+            "average": 53
+        },
+        {
+            "name": "datavant",
+            "icon": "https://logo.clearbit.com/Datavant.com",
+            "average": 53
+        },
+        {
+            "name": "doordash",
+            "icon": "https://logo.clearbit.com/DoorDash.com",
+            "average": 53
+        },
+        {
+            "name": "hatch credit",
+            "icon": "https://i.imgur.com/otdWu0m.png",
+            "average": 53
+        },
+        {
+            "name": "instabase",
+            "icon": "https://logo.clearbit.com/Instabase.com",
+            "average": 53
+        },
+        {
+            "name": "liveramp",
+            "icon": "https://logo.clearbit.com/LiveRamp.com",
+            "average": 53
+        },
+        {
+            "name": "match",
+            "icon": "https://logo.clearbit.com/Match.com",
+            "average": 53
+        },
+        {
+            "name": "nearside",
+            "icon": "https://logo.clearbit.com/Nearside.com",
+            "average": 53
+        },
+        {
+            "name": "pimco",
+            "icon": "https://logo.clearbit.com/https:/careers.pimco.com/",
+            "average": 53
+        },
+        {
+            "name": "pinterest",
+            "icon": "https://logo.clearbit.com/Pinterest.com",
+            "average": 53
+        },
+        {
+            "name": "quora",
+            "icon": "https://logo.clearbit.com/Quora.com",
+            "average": 53
+        },
+        {
+            "name": "sentry",
+            "icon": "https://i.imgur.com/gZALTaM.png",
+            "average": 53
+        },
+        {
+            "name": "snap",
+            "icon": "https://logo.clearbit.com/Snap.com",
+            "average": 53
+        },
+        {
+            "name": "sofi",
+            "icon": "https://logo.clearbit.com/SoFi.com",
+            "average": 53
+        },
+        {
+            "name": "tiktok",
+            "icon": "https://i.imgur.com/MeAQvhq.png",
+            "average": 53
+        },
+        {
+            "name": "tripactions",
+            "icon": "https://logo.clearbit.com/TripActions.com",
+            "average": 53
+        },
+        {
+            "name": "cockroach labs",
+            "icon": "https://logo.clearbit.com/CockroachLabs.com",
+            "average": 52
+        },
+        {
+            "name": "convoy",
+            "icon": "https://logo.clearbit.com/Convoy.com",
+            "average": 52
+        },
+        {
+            "name": "eightfold.ai",
+            "icon": "https://logo.clearbit.com/Eightfold.ai",
+            "average": 52
+        },
+        {
+            "name": "etsy",
+            "icon": "https://logo.clearbit.com/Etsy.com",
+            "average": 52
+        },
+        {
+            "name": "faire",
+            "icon": "https://logo.clearbit.com/Faire.com",
+            "average": 52
+        },
+        {
+            "name": "gem",
+            "icon": "https://logo.clearbit.com/Gem.com",
+            "average": 52
+        },
+        {
+            "name": "hearth",
+            "icon": "https://imgur.com/GHbcx0l.png",
+            "average": 52
+        },
+        {
+            "name": "interdigital",
+            "icon": "https://logo.clearbit.com/interdigital.com",
+            "average": 52
+        },
+        {
+            "name": "munich re",
+            "icon": "https://logo.clearbit.com/MunichRe.com",
+            "average": 52
+        },
+        {
+            "name": "nutanix",
+            "icon": "https://logo.clearbit.com/nutanix.com",
+            "average": 52
+        },
+        {
+            "name": "parc",
+            "icon": "https://logo.clearbit.com/PARC.com",
+            "average": 52
+        },
+        {
+            "name": "quantcast",
+            "icon": "https://logo.clearbit.com/Quantcast.com",
+            "average": 52
+        },
+        {
+            "name": "second spectrum",
+            "icon": "https://logo.clearbit.com/https:/secondspectrum.com/",
+            "average": 52
+        },
+        {
+            "name": "slack",
+            "icon": "https://logo.clearbit.com/slack.com",
+            "average": 52
+        },
+        {
+            "name": "tanium",
+            "icon": "https://logo.clearbit.com/Tanium.com",
+            "average": 52
+        },
+        {
+            "name": "waymo",
+            "icon": "https://logo.clearbit.com/Waymo.com",
+            "average": 52
+        },
+        {
+            "name": "abnormal security",
+            "icon": "https://logo.clearbit.com/AbnormalSecurity.com",
+            "average": 51
+        },
+        {
+            "name": "bungie",
+            "icon": "https://logo.clearbit.com/http://www.bungie.net/",
+            "average": 51
+        },
+        {
+            "name": "cisco meraki",
+            "icon": "https://imgur.com/hpSgi4a.png",
+            "average": 51
+        },
+        {
+            "name": "digitalocean",
+            "icon": "https://logo.clearbit.com/DigitalOcean.com",
+            "average": 51
+        },
+        {
+            "name": "experian",
+            "icon": "https://logo.clearbit.com/Experian.com",
+            "average": 51
+        },
+        {
+            "name": "fanatics inc",
+            "icon": "https://imgur.com/MsHcNMO.png",
+            "average": 51
+        },
+        {
+            "name": "plangrid",
+            "icon": "https://logo.clearbit.com/Plangrid.com",
+            "average": 51
+        },
+        {
+            "name": "stottler henke associates",
+            "icon": "https://imgur.com/3nnlOq5.png",
+            "average": 51
+        },
+        {
+            "name": "twitch",
+            "icon": "https://logo.clearbit.com/twitch.com",
+            "average": 51
+        },
+        {
+            "name": "wing",
+            "icon": "https://logo.clearbit.com/Wing.com",
+            "average": 51
+        },
+        {
+            "name": "amazon",
+            "icon": "https://logo.clearbit.com/Amazon.com",
+            "average": 50
+        },
+        {
+            "name": "amazon robotics",
+            "icon": "https://imgur.com/JkNdUDO.png",
+            "average": 50
+        },
+        {
+            "name": "asapp",
+            "icon": "https://logo.clearbit.com/https:/www.asapp.com/",
+            "average": 50
+        },
+        {
+            "name": "bubble.io",
+            "icon": "https://logo.clearbit.com/bubble.io",
+            "average": 50
+        },
+        {
+            "name": "bytedance",
+            "icon": "https://logo.clearbit.com/bytedance.com",
+            "average": 50
+        },
+        {
+            "name": "chainalysis",
+            "icon": "https://logo.clearbit.com/Chainalysis.com",
+            "average": 50
+        },
+        {
+            "name": "coda.io",
+            "icon": "https://imgur.com/Hl0mqpm.png",
+            "average": 50
+        },
+        {
+            "name": "cybercube",
+            "icon": "https://logo.clearbit.com/https:/www.cybcube.com/",
+            "average": 50
+        },
+        {
+            "name": "datadog",
+            "icon": "https://logo.clearbit.com/Datadog.com",
+            "average": 50
+        },
+        {
+            "name": "everlaw",
+            "icon": "https://logo.clearbit.com/Everlaw.com",
+            "average": 50
+        },
+        {
+            "name": "github",
+            "icon": "https://logo.clearbit.com/GitHub.com",
+            "average": 50
+        },
+        {
+            "name": "hyperscience",
+            "icon": "https://logo.clearbit.com/HyperScience.com",
+            "average": 50
+        },
+        {
+            "name": "infinera",
+            "icon": "https://logo.clearbit.com/Infinera.com",
+            "average": 50
+        },
+        {
+            "name": "intuitive surgical",
+            "icon": "https://logo.clearbit.com/IntuitiveSurgical.com",
+            "average": 50
+        },
+        {
+            "name": "lacework",
+            "icon": "https://logo.clearbit.com/Lacework.com",
+            "average": 50
+        },
+        {
+            "name": "loom",
+            "icon": "https://logo.clearbit.com/Loom.com",
+            "average": 50
+        },
+        {
+            "name": "motional",
+            "icon": "https://logo.clearbit.com/Motional.com",
+            "average": 50
+        },
+        {
+            "name": "mulesoft",
+            "icon": "https://logo.clearbit.com/MuleSoft.com",
+            "average": 50
+        },
+        {
+            "name": "nuna healthcare",
+            "icon": "https://imgur.com/bfpPi7I.png",
+            "average": 50
+        },
+        {
+            "name": "nvidia",
+            "icon": "https://logo.clearbit.com/Nvidia.com",
+            "average": 50
+        },
+        {
+            "name": "palantir",
+            "icon": "https://logo.clearbit.com/Palantir.com",
+            "average": 50
+        },
+        {
+            "name": "patientco",
+            "icon": "https://logo.clearbit.com/https:/www.Patientco.com/",
+            "average": 50
+        },
+        {
+            "name": "patreon",
+            "icon": "https://logo.clearbit.com/Patreon.com",
+            "average": 50
+        },
+        {
+            "name": "pure storage",
+            "icon": "https://logo.clearbit.com/PureStorage.com",
+            "average": 50
+        },
+        {
+            "name": "quip",
+            "icon": "https://logo.clearbit.com/quip.com",
+            "average": 50
+        },
+        {
+            "name": "ripple",
+            "icon": "https://logo.clearbit.com/Ripple.com",
+            "average": 50
+        },
+        {
+            "name": "rubrik",
+            "icon": "https://logo.clearbit.com/Rubrik.com",
+            "average": 50
+        },
+        {
+            "name": "spectrum labs",
+            "icon": "https://i.imgur.com/7XpWPXL.png",
+            "average": 50
+        },
+        {
+            "name": "splunk",
+            "icon": "https://logo.clearbit.com/Splunk.com",
+            "average": 50
+        },
+        {
+            "name": "stripe",
+            "icon": "https://i.imgur.com/SREqSES.png",
+            "average": 50
+        },
+        {
+            "name": "sumo logic",
+            "icon": "https://logo.clearbit.com/SumoLogic.com",
+            "average": 50
+        },
+        {
+            "name": "tatari",
+            "icon": "https://logo.clearbit.com/Tatari.com",
+            "average": 50
+        },
+        {
+            "name": "tdk invensense",
+            "icon": "https://logo.clearbit.com/https://invensense.tdk.com/",
+            "average": 50
+        },
+        {
+            "name": "truera",
+            "icon": "https://logo.clearbit.com/TruEra.com",
+            "average": 50
+        },
+        {
+            "name": "western asset management",
+            "icon": "https://logo.clearbit.com/http:/www.westernasset.com/",
+            "average": 50
+        },
+        {
+            "name": "wolverine trading",
+            "icon": "https://imgur.com/tVUsOZs.png",
+            "average": 50
+        },
+        {
+            "name": "zillow",
+            "icon": "https://logo.clearbit.com/Zillow.com",
+            "average": 50
+        },
+        {
+            "name": "zoom",
+            "icon": "https://logo.clearbit.com/Zoom.com",
+            "average": 50
+        },
+        {
+            "name": "affirm",
+            "icon": "https://logo.clearbit.com/Affirm.com",
+            "average": 49
+        },
+        {
+            "name": "alibaba",
+            "icon": "https://logo.clearbit.com/Alibaba.com",
+            "average": 49
+        },
+        {
+            "name": "belvedere trading",
+            "icon": "https://logo.clearbit.com/BelvedereTrading.com",
+            "average": 49
+        },
+        {
+            "name": "bitgo",
+            "icon": "https://logo.clearbit.com/BitGo.com",
+            "average": 49
+        },
+        {
+            "name": "coinbase",
+            "icon": "https://logo.clearbit.com/Coinbase.com",
+            "average": 49
+        },
+        {
+            "name": "confluent",
+            "icon": "https://i.imgur.com/trFU29D.png",
+            "average": 49
+        },
+        {
+            "name": "figma",
+            "icon": "https://logo.clearbit.com/figma.com",
+            "average": 49
+        },
+        {
+            "name": "salesforce",
+            "icon": "https://logo.clearbit.com/Salesforce.com",
+            "average": 49
+        },
+        {
+            "name": "squarespace",
+            "icon": "https://logo.clearbit.com/Squarespace.com",
+            "average": 49
+        },
+        {
+            "name": "verkada",
+            "icon": "https://logo.clearbit.com/Verkada.com",
+            "average": 49
+        },
+        {
+            "name": "amazon (app)",
+            "icon": "https://imgur.com/aBzBX7R.png",
+            "average": 48
+        },
+        {
+            "name": "apple",
+            "icon": "https://i.imgur.com/d7My8Lp.png",
+            "average": 48
+        },
+        {
+            "name": "blackrock",
+            "icon": "https://logo.clearbit.com/BlackRock.com",
+            "average": 48
+        },
+        {
+            "name": "blackstone",
+            "icon": "https://logo.clearbit.com/Blackstone.com",
+            "average": 48
+        },
+        {
+            "name": "cadence",
+            "icon": "https://logo.clearbit.com/Cadence.com",
+            "average": 48
+        },
+        {
+            "name": "certain lending",
+            "icon": "https://logo.clearbit.com/CertainLending.com",
+            "average": 48
+        },
+        {
+            "name": "cohesity",
+            "icon": "https://logo.clearbit.com/Cohesity.com",
+            "average": 48
+        },
+        {
+            "name": "cruise",
+            "icon": "https://logo.clearbit.com/getcruise.com",
+            "average": 48
+        },
+        {
+            "name": "flatiron",
+            "icon": "https://logo.clearbit.com/Flatiron.com",
+            "average": 48
+        },
+        {
+            "name": "gopuff",
+            "icon": "https://logo.clearbit.com/GoPuff.com",
+            "average": 48
+        },
+        {
+            "name": "klaviyo",
+            "icon": "https://logo.clearbit.com/Klaviyo.com",
+            "average": 48
+        },
+        {
+            "name": "lime",
+            "icon": "https://logo.clearbit.com/Lime.com",
+            "average": 48
+        },
+        {
+            "name": "linkedin",
+            "icon": "https://i.imgur.com/PI4nBLw.png",
+            "average": 48
+        },
+        {
+            "name": "peak6",
+            "icon": "https://logo.clearbit.com/Peak6.com",
+            "average": 48
+        },
+        {
+            "name": "pocket gems",
+            "icon": "https://logo.clearbit.com/PocketGems.com",
+            "average": 48
+        },
+        {
+            "name": "redfin",
+            "icon": "https://logo.clearbit.com/redfin.com",
+            "average": 48
+        },
+        {
+            "name": "remitly",
+            "icon": "https://imgur.com/4g1G0bD.png",
+            "average": 48
+        },
+        {
+            "name": "sailpoint",
+            "icon": "https://logo.clearbit.com/SailPoint.com",
+            "average": 48
+        },
+        {
+            "name": "samsara",
+            "icon": "https://logo.clearbit.com/Samsara.com",
+            "average": 48
+        },
+        {
+            "name": "seekout",
+            "icon": "https://imgur.com/9UI4nPT.png",
+            "average": 48
+        },
+        {
+            "name": "singlestore",
+            "icon": "https://logo.clearbit.com/Singlestore.com",
+            "average": 48
+        },
+        {
+            "name": "spatial",
+            "icon": "https://logo.clearbit.com/Spatial.com",
+            "average": 48
+        },
+        {
+            "name": "tinder",
+            "icon": "https://logo.clearbit.com/Tinder.com",
+            "average": 48
+        },
+        {
+            "name": "tusimple",
+            "icon": "https://logo.clearbit.com/TuSimple.com",
+            "average": 48
+        },
+        {
+            "name": "udemy",
+            "icon": "https://logo.clearbit.com/Udemy.com",
+            "average": 48
+        },
+        {
+            "name": "uipath",
+            "icon": "https://logo.clearbit.com/UiPath.com",
+            "average": 48
+        },
+        {
+            "name": "adobe",
+            "icon": "https://logo.clearbit.com/Adobe.com",
+            "average": 47
+        },
+        {
+            "name": "autonomic",
+            "icon": "https://logo.clearbit.com/autonomic.ai",
+            "average": 47
+        },
+        {
+            "name": "barclays",
+            "icon": "https://logo.clearbit.com/Barclays.com",
+            "average": 47
+        },
+        {
+            "name": "blend",
+            "icon": "https://logo.clearbit.com/blend.com",
+            "average": 47
+        },
+        {
+            "name": "chan zuckerberg initiative",
+            "icon": "https://logo.clearbit.com/ChanZuckerbergInitiative.com",
+            "average": 47
+        },
+        {
+            "name": "duolingo",
+            "icon": "https://logo.clearbit.com/Duolingo.com",
+            "average": 47
+        },
+        {
+            "name": "ellington management group",
+            "icon": "https://logo.clearbit.com/https:/www.ellington.com/",
+            "average": 47
+        },
+        {
+            "name": "facebook",
+            "icon": "https://logo.clearbit.com/Facebook.com",
+            "average": 47
+        },
+        {
+            "name": "flatiron health",
+            "icon": "https://logo.clearbit.com/FlatironHealth.com",
+            "average": 47
+        },
+        {
+            "name": "honda research institute usa, inc.",
+            "icon": "https://i.imgur.com/XZhKCTh.png",
+            "average": 47
+        },
+        {
+            "name": "mongodb",
+            "icon": "https://logo.clearbit.com/MongoDB.com",
+            "average": 47
+        },
+        {
+            "name": "noom",
+            "icon": "https://logo.clearbit.com/Noom.com",
+            "average": 47
+        },
+        {
+            "name": "reddit",
+            "icon": "https://logo.clearbit.com/Reddit.com",
+            "average": 47
+        },
+        {
+            "name": "samsung research america",
+            "icon": "https://logo.clearbit.com/Samsung.com",
+            "average": 47
+        },
+        {
+            "name": "servicenow",
+            "icon": "https://logo.clearbit.com/ServiceNow.com",
+            "average": 47
+        },
+        {
+            "name": "tableau",
+            "icon": "https://logo.clearbit.com/Tableau.com",
+            "average": 47
+        },
+        {
+            "name": "wepay",
+            "icon": "https://logo.clearbit.com/wepay.com",
+            "average": 47
+        },
+        {
+            "name": "x - the moonshot factory",
+            "icon": "https://i.imgur.com/CvRqfdU.png",
+            "average": 47
+        },
+        {
+            "name": "zwift",
+            "icon": "https://logo.clearbit.com/Zwift.com",
+            "average": 47
+        },
+        {
+            "name": "adp lifion",
+            "icon": "https://logo.clearbit.com/ADP.com",
+            "average": 46
+        },
+        {
+            "name": "airbnb",
+            "icon": "https://logo.clearbit.com/airbnb.com",
+            "average": 46
+        },
+        {
+            "name": "american express",
+            "icon": "https://logo.clearbit.com/AmericanExpress.com",
+            "average": 46
+        },
+        {
+            "name": "ancestry",
+            "icon": "https://logo.clearbit.com/Ancestry.com",
+            "average": 46
+        },
+        {
+            "name": "applovin",
+            "icon": "https://logo.clearbit.com/AppLovin.com",
+            "average": 46
+        },
+        {
+            "name": "apollo graphql",
+            "icon": "https://logo.clearbit.com/ApolloGraphQL.com",
+            "average": 46
+        },
+        {
+            "name": "atlassian",
+            "icon": "https://logo.clearbit.com/Atlassian.com",
+            "average": 46
+        },
+        {
+            "name": "aurora",
+            "icon": "https://logo.clearbit.com/https:/aurora.tech/",
+            "average": 46
+        },
+        {
+            "name": "bnp paribas",
+            "icon": "https://logo.clearbit.com/group.bnpparibas/",
+            "average": 46
+        },
+        {
+            "name": "deliverr",
+            "icon": "https://imgur.com/I7sReBk.png",
+            "average": 46
+        },
+        {
+            "name": "dropbox",
+            "icon": "https://logo.clearbit.com/Dropbox.com",
+            "average": 46
+        },
+        {
+            "name": "epic games",
+            "icon": "https://logo.clearbit.com/EpicGames.com",
+            "average": 46
+        },
+        {
+            "name": "genentech",
+            "icon": "https://logo.clearbit.com/Genentech.com",
+            "average": 46
+        },
+        {
+            "name": "godaddy",
+            "icon": "https://logo.clearbit.com/GoDaddy.com",
+            "average": 46
+        },
+        {
+            "name": "google",
+            "icon": "https://logo.clearbit.com/Google.com",
+            "average": 46
+        },
+        {
+            "name": "ixl learning",
+            "icon": "https://logo.clearbit.com/IXLLearning.com",
+            "average": 46
+        },
+        {
+            "name": "mckinsey",
+            "icon": "https://i.imgur.com/8Kd9MUj.png",
+            "average": 46
+        },
+        {
+            "name": "momentive",
+            "icon": "https://logo.clearbit.com/Momentive.com",
+            "average": 46
+        },
+        {
+            "name": "nextroll",
+            "icon": "https://logo.clearbit.com/NextRoll.com",
+            "average": 46
+        },
+        {
+            "name": "opendoor",
+            "icon": "https://logo.clearbit.com/http:/www.opendoor.com/",
+            "average": 46
+        },
+        {
+            "name": "robinhood",
+            "icon": "https://logo.clearbit.com/Robinhood.com",
+            "average": 46
+        },
+        {
+            "name": "snowflake",
+            "icon": "https://logo.clearbit.com/Snowflake.com",
+            "average": 46
+        },
+        {
+            "name": "tenstorrent",
+            "icon": "https://logo.clearbit.com/Tenstorrent.com",
+            "average": 46
+        },
+        {
+            "name": "vertica",
+            "icon": "https://logo.clearbit.com/Vertica.com",
+            "average": 46
+        },
+        {
+            "name": "vmware",
+            "icon": "https://logo.clearbit.com/vmware.com",
+            "average": 46
+        },
+        {
+            "name": "wish",
+            "icon": "https://imgur.com/b1SrRq0.png",
+            "average": 46
+        },
+        {
+            "name": "yelp",
+            "icon": "https://logo.clearbit.com/Yelp.com",
+            "average": 46
+        },
+        {
+            "name": "yext",
+            "icon": "https://logo.clearbit.com/Yext.com",
+            "average": 46
+        },
+        {
+            "name": "addepar",
+            "icon": "https://logo.clearbit.com/addepar.com",
+            "average": 45
+        },
+        {
+            "name": "adidas",
+            "icon": "https://logo.clearbit.com/adidas.com",
+            "average": 45
+        },
+        {
+            "name": "autodesk",
+            "icon": "https://logo.clearbit.com/Autodesk.com",
+            "average": 45
+        },
+        {
+            "name": "avant",
+            "icon": "https://logo.clearbit.com/Avant.com",
+            "average": 45
+        },
+        {
+            "name": "axon",
+            "icon": "https://logo.clearbit.com/Axon.com",
+            "average": 45
+        },
+        {
+            "name": "bill.com",
+            "icon": "https://logo.clearbit.com/Bill.com",
+            "average": 45
+        },
+        {
+            "name": "cloudflare",
+            "icon": "https://logo.clearbit.com/Cloudflare.com",
+            "average": 45
+        },
+        {
+            "name": "coursera",
+            "icon": "https://logo.clearbit.com/Coursera.com",
+            "average": 45
+        },
+        {
+            "name": "ebay",
+            "icon": "https://logo.clearbit.com/Ebay.com",
+            "average": 45
+        },
+        {
+            "name": "enlitic",
+            "icon": "https://logo.clearbit.com/Enlitic.com",
+            "average": 45
+        },
+        {
+            "name": "fetch rewards",
+            "icon": "https://logo.clearbit.com/FetchRewards.com",
+            "average": 45
+        },
+        {
+            "name": "goldman sachs",
+            "icon": "https://logo.clearbit.com/GoldmanSachs.com",
+            "average": 45
+        },
+        {
+            "name": "gts",
+            "icon": "https://logo.clearbit.com/GTS.com",
+            "average": 45
+        },
+        {
+            "name": "hewlett packard",
+            "icon": "https://logo.clearbit.com/hpe.com",
+            "average": 45
+        },
+        {
+            "name": "humu",
+            "icon": "https://logo.clearbit.com/Humu.com",
+            "average": 45
+        },
+        {
+            "name": "interviewing.io",
+            "icon": "https://imgur.com/rtmZKft.png",
+            "average": 45
+        },
+        {
+            "name": "intuitive",
+            "icon": "https://logo.clearbit.com/Intuitive.com",
+            "average": 45
+        },
+        {
+            "name": "khoros",
+            "icon": "https://logo.clearbit.com/Khoros.com",
+            "average": 45
+        },
+        {
+            "name": "moody's corporation",
+            "icon": "https://imgur.com/GvO4ZCF.png",
+            "average": 45
+        },
+        {
+            "name": "nordstrom",
+            "icon": "https://logo.clearbit.com/Nordstrom.com",
+            "average": 45
+        },
+        {
+            "name": "nortonlifelock",
+            "icon": "https://logo.clearbit.com/NortonLifeLock.com",
+            "average": 45
+        },
+        {
+            "name": "open networking foundation",
+            "icon": "http://logo.clearbit.com/https:/opennetworking.org/",
+            "average": 45
+        },
+        {
+            "name": "pathai",
+            "icon": "https://logo.clearbit.com/https:/www.pathai.com/",
+            "average": 45
+        },
+        {
+            "name": "peloton",
+            "icon": "https://i.imgur.com/Z0QwVVW.png",
+            "average": 45
+        },
+        {
+            "name": "roku",
+            "icon": "https://logo.clearbit.com/Roku.com",
+            "average": 45
+        },
+        {
+            "name": "sage intacct",
+            "icon": "https://logo.clearbit.com/SageIntacct.com",
+            "average": 45
+        },
+        {
+            "name": "scribd",
+            "icon": "https://logo.clearbit.com/Scribd.com",
+            "average": 45
+        },
+        {
+            "name": "seatgeek",
+            "icon": "https://logo.clearbit.com/seatgeek.com",
+            "average": 45
+        },
+        {
+            "name": "sifive",
+            "icon": "https://imgur.com/luUuZFl.png",
+            "average": 45
+        },
+        {
+            "name": "square",
+            "icon": "https://i.imgur.com/tfpSJ3m.png",
+            "average": 45
+        },
+        {
+            "name": "tapad",
+            "icon": "https://logo.clearbit.com/Tapad.com",
+            "average": 45
+        },
+        {
+            "name": "td securities",
+            "icon": "https://logo.clearbit.com/TDAmeritrade.com",
+            "average": 45
+        },
+        {
+            "name": "teradata",
+            "icon": "https://logo.clearbit.com/Teradata.com",
+            "average": 45
+        },
+        {
+            "name": "tradeweb",
+            "icon": "https://logo.clearbit.com/Tradeweb.com",
+            "average": 45
+        },
+        {
+            "name": "twilio",
+            "icon": "https://logo.clearbit.com/Twilio.com",
+            "average": 45
+        },
+        {
+            "name": "uber",
+            "icon": "https://logo.clearbit.com/Uber.com",
+            "average": 45
+        },
+        {
+            "name": "verily life sciences",
+            "icon": "https://logo.clearbit.com/VerilyLifeSciences.com",
+            "average": 45
+        },
+        {
+            "name": "vrbo",
+            "icon": "https://logo.clearbit.com/Vrbo.com",
+            "average": 45
+        },
+        {
+            "name": "wealthfront",
+            "icon": "https://logo.clearbit.com/Wealthfront.com",
+            "average": 45
+        },
+        {
+            "name": "weride.ai",
+            "icon": "https://logo.clearbit.com/Weride.ai",
+            "average": 45
+        },
+        {
+            "name": "xilinx",
+            "icon": "https://logo.clearbit.com/Xilinx.com",
+            "average": 45
+        },
+        {
+            "name": "zendesk",
+            "icon": "https://logo.clearbit.com/Zendesk.com",
+            "average": 45
+        },
+        {
+            "name": "anduril",
+            "icon": "https://logo.clearbit.com/Anduril.com",
+            "average": 44
+        },
+        {
+            "name": "balyasny asset management",
+            "icon": "https://logo.clearbit.com/https:/www.bamfunds.com/",
+            "average": 44
+        },
+        {
+            "name": "bloomberg",
+            "icon": "https://logo.clearbit.com/Bloomberg.com",
+            "average": 44
+        },
+        {
+            "name": "cambly",
+            "icon": "https://logo.clearbit.com/http:/https:/www.cambly.com/",
+            "average": 44
+        },
+        {
+            "name": "cohere.ai",
+            "icon": "https://imgur.com/1LM7HZL.png",
+            "average": 44
+        },
+        {
+            "name": "credit karma",
+            "icon": "https://logo.clearbit.com/CreditKarma.com",
+            "average": 44
+        },
+        {
+            "name": "dolby",
+            "icon": "https://logo.clearbit.com/Dolby.com",
+            "average": 44
+        },
+        {
+            "name": "eog resources",
+            "icon": "https://logo.clearbit.com/EOGResources.com",
+            "average": 44
+        },
+        {
+            "name": "flexport",
+            "icon": "https://logo.clearbit.com/Flexport.com",
+            "average": 44
+        },
+        {
+            "name": "interactive brokers",
+            "icon": "https://logo.clearbit.com/https:/www.interactivebrokers.com/",
+            "average": 44
+        },
+        {
+            "name": "jpmorgan chase",
+            "icon": "https://logo.clearbit.com/JPMorgan.com",
+            "average": 44
+        },
+        {
+            "name": "nextdoor",
+            "icon": "https://logo.clearbit.com/Nextdoor.com",
+            "average": 44
+        },
+        {
+            "name": "nomura",
+            "icon": "https://logo.clearbit.com/Nomura.com",
+            "average": 44
+        },
+        {
+            "name": "palo alto networks",
+            "icon": "https://logo.clearbit.com/PaloAltoNetworks.com",
+            "average": 44
+        },
+        {
+            "name": "poshmark",
+            "icon": "https://logo.clearbit.com/Poshmark.com",
+            "average": 44
+        },
+        {
+            "name": "repl.it",
+            "icon": "https://logo.clearbit.com/repl.it",
+            "average": 44
+        },
+        {
+            "name": "rivian",
+            "icon": "https://logo.clearbit.com/Rivian.com",
+            "average": 44
+        },
+        {
+            "name": "sony playstation",
+            "icon": "https://logo.clearbit.com/Sony.com",
+            "average": 44
+        },
+        {
+            "name": "tektronix",
+            "icon": "https://logo.clearbit.com/Tektronix.com",
+            "average": 44
+        },
+        {
+            "name": "the climate corporation",
+            "icon": "https://logo.clearbit.com/http:/www.climate.com/",
+            "average": 44
+        },
+        {
+            "name": "activision",
+            "icon": "https://logo.clearbit.com/Activision.com",
+            "average": 43
+        },
+        {
+            "name": "alcon",
+            "icon": "https://logo.clearbit.com/Alcon.com",
+            "average": 43
+        },
+        {
+            "name": "bolt",
+            "icon": "https://logo.clearbit.com/Bolt.com",
+            "average": 43
+        },
+        {
+            "name": "clever",
+            "icon": "https://logo.clearbit.com/Clever.com",
+            "average": 43
+        },
+        {
+            "name": "databricks",
+            "icon": "https://logo.clearbit.com/databricks.com",
+            "average": 43
+        },
+        {
+            "name": "discovery",
+            "icon": "https://logo.clearbit.com/https:/discovery.com/",
+            "average": 43
+        },
+        {
+            "name": "f5 networks",
+            "icon": "https://logo.clearbit.com/F5Networks.com",
+            "average": 43
+        },
+        {
+            "name": "futurewei technologies",
+            "icon": "https://imgur.com/341FTTB.png",
+            "average": 43
+        },
+        {
+            "name": "hubspot",
+            "icon": "https://logo.clearbit.com/HubSpot.com",
+            "average": 43
+        },
+        {
+            "name": "indeed",
+            "icon": "https://logo.clearbit.com/Indeed.com",
+            "average": 43
+        },
+        {
+            "name": "informatica",
+            "icon": "https://logo.clearbit.com/Informatica.com",
+            "average": 43
+        },
+        {
+            "name": "intuit",
+            "icon": "https://logo.clearbit.com/Intuit.com",
+            "average": 43
+        },
+        {
+            "name": "kbr",
+            "icon": "https://logo.clearbit.com/KBR.com",
+            "average": 43
+        },
+        {
+            "name": "mozilla",
+            "icon": "https://logo.clearbit.com/Mozilla.com",
+            "average": 43
+        },
+        {
+            "name": "optimizely",
+            "icon": "https://logo.clearbit.com/Optimizely.com",
+            "average": 43
+        },
+        {
+            "name": "oracle",
+            "icon": "https://logo.clearbit.com/Oracle.com",
+            "average": 43
+        },
+        {
+            "name": "qualcomm",
+            "icon": "https://logo.clearbit.com/Qualcomm.com",
+            "average": 43
+        },
+        {
+            "name": "rex homes",
+            "icon": "https://logo.clearbit.com/REXHomes.com",
+            "average": 43
+        },
+        {
+            "name": "surveymonkey",
+            "icon": "https://logo.clearbit.com/SurveyMonkey.com",
+            "average": 43
+        },
+        {
+            "name": "tile",
+            "icon": "https://logo.clearbit.com/Tile.com",
+            "average": 43
+        },
+        {
+            "name": "workday",
+            "icon": "https://logo.clearbit.com/workday.com",
+            "average": 43
+        },
+        {
+            "name": "alteryx",
+            "icon": "https://logo.clearbit.com/Alteryx.com",
+            "average": 42
+        },
+        {
+            "name": "amadeus",
+            "icon": "https://logo.clearbit.com/Amadeus.com",
+            "average": 42
+        },
+        {
+            "name": "athenahealth",
+            "icon": "https://logo.clearbit.com/Athenahealth.com",
+            "average": 42
+        },
+        {
+            "name": "avalara",
+            "icon": "https://logo.clearbit.com/Avalara.com",
+            "average": 42
+        },
+        {
+            "name": "aviatrix",
+            "icon": "https://logo.clearbit.com/Aviatrix.com",
+            "average": 42
+        },
+        {
+            "name": "bcg",
+            "icon": "https://logo.clearbit.com/BCG.com",
+            "average": 42
+        },
+        {
+            "name": "c3.ai",
+            "icon": "https://i.imgur.com/99UHzoe.png",
+            "average": 42
+        },
+        {
+            "name": "citi",
+            "icon": "https://logo.clearbit.com/Citi.com",
+            "average": 42
+        },
+        {
+            "name": "coupang",
+            "icon": "https://logo.clearbit.com/Coupang.com",
+            "average": 42
+        },
+        {
+            "name": "costar group",
+            "icon": "https://logo.clearbit.com/CoStarGroup.com",
+            "average": 42
+        },
+        {
+            "name": "dataminr",
+            "icon": "https://logo.clearbit.com/Dataminr.com",
+            "average": 42
+        },
+        {
+            "name": "docusign",
+            "icon": "https://logo.clearbit.com/DocuSign.com",
+            "average": 42
+        },
+        {
+            "name": "expedia group",
+            "icon": "https://logo.clearbit.com/Expedia.com",
+            "average": 42
+        },
+        {
+            "name": "gap",
+            "icon": "https://i.imgur.com/ASvRv3j.png",
+            "average": 42
+        },
+        {
+            "name": "georgian",
+            "icon": "https://logo.clearbit.com/https://georgian.io/",
+            "average": 42
+        },
+        {
+            "name": "gilead sciences",
+            "icon": "https://imgur.com/frGXw9v.png",
+            "average": 42
+        },
+        {
+            "name": "grubhub",
+            "icon": "https://logo.clearbit.com/grubhub.com",
+            "average": 42
+        },
+        {
+            "name": "guidewire",
+            "icon": "https://logo.clearbit.com/Guidewire.com",
+            "average": 42
+        },
+        {
+            "name": "honey",
+            "icon": "https://logo.clearbit.com/Honey.com",
+            "average": 42
+        },
+        {
+            "name": "marqeta",
+            "icon": "https://logo.clearbit.com/marqeta.com",
+            "average": 42
+        },
+        {
+            "name": "microsoft",
+            "icon": "https://logo.clearbit.com/Microsoft.com",
+            "average": 42
+        },
+        {
+            "name": "nimblerx",
+            "icon": "https://logo.clearbit.com/NimbleRX.com",
+            "average": 42
+        },
+        {
+            "name": "opentable",
+            "icon": "https://logo.clearbit.com/OpenTable.com",
+            "average": 42
+        },
+        {
+            "name": "playstation",
+            "icon": "https://imgur.com/YCEvAa9.png",
+            "average": 42
+        },
+        {
+            "name": "prudential financial",
+            "icon": "https://imgur.com/B9nuHJF.png",
+            "average": 42
+        },
+        {
+            "name": "ridgeline",
+            "icon": "https://logo.clearbit.com/Ridgeline.com/",
+            "average": 42
+        },
+        {
+            "name": "samsung electronics (sarc)",
+            "icon": "https://logo.clearbit.com/samsung.com",
+            "average": 42
+        },
+        {
+            "name": "sigma computing",
+            "icon": "http://logo.clearbit.com/https:/www.sigmacomputing.com/",
+            "average": 42
+        },
+        {
+            "name": "spotify",
+            "icon": "https://logo.clearbit.com/Spotify.com",
+            "average": 42
+        },
+        {
+            "name": "twitter",
+            "icon": "https://logo.clearbit.com/Twitter.com",
+            "average": 42
+        },
+        {
+            "name": "xcom labs",
+            "icon": "https://imgur.com/cKvqP3u.png",
+            "average": 42
+        },
+        {
+            "name": "zscaler",
+            "icon": "https://logo.clearbit.com/Zscaler.com",
+            "average": 42
+        },
+        {
+            "name": "chime",
+            "icon": "https://logo.clearbit.com/Chime.com",
+            "average": 41
+        },
+        {
+            "name": "crowdstrike",
+            "icon": "http://logo.clearbit.com/Crowdstrike.com/",
+            "average": 41
+        },
+        {
+            "name": "egencia",
+            "icon": "https://imgur.com/tTen723.png",
+            "average": 41
+        },
+        {
+            "name": "facebook reality labs",
+            "icon": "https://logo.clearbit.com/Facebook.com",
+            "average": 41
+        },
+        {
+            "name": "hbo",
+            "icon": "https://logo.clearbit.com/HBO.com",
+            "average": 41
+        },
+        {
+            "name": "hulu",
+            "icon": "https://i.imgur.com/lVWhgvd.png",
+            "average": 41
+        },
+        {
+            "name": "illumina",
+            "icon": "https://logo.clearbit.com/http:/www.Illumina.com/",
+            "average": 41
+        },
+        {
+            "name": "jefferies",
+            "icon": "https://logo.clearbit.com/Jefferies.com",
+            "average": 41
+        },
+        {
+            "name": "morgan stanley",
+            "icon": "https://logo.clearbit.com/MorganStanley.com",
+            "average": 41
+        },
+        {
+            "name": "paypal",
+            "icon": "https://i.imgur.com/M9CtX07.png",
+            "average": 41
+        },
+        {
+            "name": "rec room",
+            "icon": "https://logo.clearbit.com/RecRoom.com",
+            "average": 41
+        },
+        {
+            "name": "sharper shape",
+            "icon": "https://logo.clearbit.com/SharperShape.com",
+            "average": 41
+        },
+        {
+            "name": "shopify",
+            "icon": "https://logo.clearbit.com/Shopify.com",
+            "average": 41
+        },
+        {
+            "name": "squarepoint capital",
+            "icon": "https://i.imgur.com/PswImqM.png",
+            "average": 41
+        },
+        {
+            "name": "synopsys",
+            "icon": "https://logo.clearbit.com/Synopsys.com",
+            "average": 41
+        },
+        {
+            "name": "veritas",
+            "icon": "https://logo.clearbit.com/http:/www.veritas.com/",
+            "average": 41
+        },
+        {
+            "name": "yahoo!",
+            "icon": "https://logo.clearbit.com/yahoo.com",
+            "average": 41
+        },
+        {
+            "name": "accenture",
+            "icon": "https://logo.clearbit.com/Accenture.com",
+            "average": 40
+        },
+        {
+            "name": "allen institute for ai",
+            "icon": "https://logo.clearbit.com/https:/allenai.org",
+            "average": 40
+        },
+        {
+            "name": "alto pharmacy",
+            "icon": "https://logo.clearbit.com/AltoPharmacy.com",
+            "average": 40
+        },
+        {
+            "name": "american family insurance",
+            "icon": "https://logo.clearbit.com/AmericanFamilyInsurance.com",
+            "average": 40
+        },
+        {
+            "name": "amerihome mortgage",
+            "icon": "https://logo.clearbit.com/AmerihomeMortgage.com",
+            "average": 40
+        },
+        {
+            "name": "appian",
+            "icon": "https://logo.clearbit.com/appian.com",
+            "average": 40
+        },
+        {
+            "name": "aruba, hpe company",
+            "icon": "https://logo.clearbit.com/Arubanetworks.com",
+            "average": 40
+        },
+        {
+            "name": "box",
+            "icon": "https://logo.clearbit.com/https:/www.box.com/",
+            "average": 40
+        },
+        {
+            "name": "castlight health",
+            "icon": "https://logo.clearbit.com/CastlightHealth.com",
+            "average": 40
+        },
+        {
+            "name": "coda",
+            "icon": "https://logo.clearbit.com/Coda.com",
+            "average": 40
+        },
+        {
+            "name": "cvent",
+            "icon": "https://logo.clearbit.com/Cvent.com",
+            "average": 40
+        },
+        {
+            "name": "dexcom",
+            "icon": "https://logo.clearbit.com/Dexcom.com",
+            "average": 40
+        },
+        {
+            "name": "extrahop networks",
+            "icon": "https://logo.clearbit.com/ExtraHopNetworks.com",
+            "average": 40
+        },
+        {
+            "name": "foursquare",
+            "icon": "https://logo.clearbit.com/Foursquare.com",
+            "average": 40
+        },
+        {
+            "name": "glassdoor",
+            "icon": "https://logo.clearbit.com/glassdoor.com",
+            "average": 40
+        },
+        {
+            "name": "group one trading",
+            "icon": "https://i.imgur.com/GRXSSzX.png",
+            "average": 40
+        },
+        {
+            "name": "homex",
+            "icon": "https://logo.clearbit.com/HomeX.com",
+            "average": 40
+        },
+        {
+            "name": "ibotta",
+            "icon": "https://logo.clearbit.com/Ibotta.com",
+            "average": 40
+        },
+        {
+            "name": "marklogic",
+            "icon": "https://i.imgur.com/4qpYrH0.png",
+            "average": 40
+        },
+        {
+            "name": "mediatek",
+            "icon": "https://logo.clearbit.com/Mediatek.com",
+            "average": 40
+        },
+        {
+            "name": "mycase",
+            "icon": "https://logo.clearbit.com/MyCase.com",
+            "average": 40
+        },
+        {
+            "name": "omnicell",
+            "icon": "https://logo.clearbit.com/Omnicell.com",
+            "average": 40
+        },
+        {
+            "name": "pagerduty",
+            "icon": "https://logo.clearbit.com/Pagerduty.com",
+            "average": 40
+        },
+        {
+            "name": "path robotics",
+            "icon": "https://imgur.com/T8rqHcq.png",
+            "average": 40
+        },
+        {
+            "name": "priceline",
+            "icon": "https://logo.clearbit.com/Priceline.com",
+            "average": 40
+        },
+        {
+            "name": "replicant",
+            "icon": "https://imgur.com/xLoM4qG.png",
+            "average": 40
+        },
+        {
+            "name": "rev.com",
+            "icon": "https://logo.clearbit.com/Rev.com",
+            "average": 40
+        },
+        {
+            "name": "ripple xpring",
+            "icon": "https://logo.clearbit.com/https:/xpring.io/",
+            "average": 40
+        },
+        {
+            "name": "shipt",
+            "icon": "https://logo.clearbit.com/Shipt.com",
+            "average": 40
+        },
+        {
+            "name": "shutterfly",
+            "icon": "https://logo.clearbit.com/ShutterflyInc.com",
+            "average": 40
+        },
+        {
+            "name": "socotra",
+            "icon": "https://logo.clearbit.com/Socotra.com",
+            "average": 40
+        },
+        {
+            "name": "strava",
+            "icon": "https://logo.clearbit.com/Strava.com",
+            "average": 40
+        },
+        {
+            "name": "the trade desk",
+            "icon": "https://logo.clearbit.com/TheTradeDesk.com",
+            "average": 40
+        },
+        {
+            "name": "thrasio",
+            "icon": "https://logo.clearbit.com/Thrasio.com",
+            "average": 40
+        },
+        {
+            "name": "trail of bits",
+            "icon": "https://logo.clearbit.com/TrailofBits.com",
+            "average": 40
+        },
+        {
+            "name": "transunion",
+            "icon": "https://logo.clearbit.com/TransUnion.com",
+            "average": 40
+        },
+        {
+            "name": "tumult labs",
+            "icon": "https://imgur.com/F04WGsJ.png",
+            "average": 40
+        },
+        {
+            "name": "vimeo",
+            "icon": "https://logo.clearbit.com/Vimeo.com",
+            "average": 40
+        },
+        {
+            "name": "volley",
+            "icon": "https://logo.clearbit.com/https:/volleythat.com/",
+            "average": 40
+        },
+        {
+            "name": "walmart global tech",
+            "icon": "https://i.imgur.com/fGkNHSV.png",
+            "average": 40
+        },
+        {
+            "name": "wework",
+            "icon": "https://logo.clearbit.com/WeWork.com",
+            "average": 40
+        },
+        {
+            "name": "zuora",
+            "icon": "https://logo.clearbit.com/Zuora.com",
+            "average": 40
+        },
+        {
+            "name": "akamai",
+            "icon": "https://logo.clearbit.com/Akamai.com",
+            "average": 39
+        },
+        {
+            "name": "analog devices",
+            "icon": "https://imgur.com/PEVQkOe.png",
+            "average": 39
+        },
+        {
+            "name": "argo ai",
+            "icon": "https://logo.clearbit.com/Argo.ai",
+            "average": 39
+        },
+        {
+            "name": "asurion",
+            "icon": "https://logo.clearbit.com/http:/www.asurion.com/",
+            "average": 39
+        },
+        {
+            "name": "draftkings",
+            "icon": "https://logo.clearbit.com/DraftKings.com",
+            "average": 39
+        },
+        {
+            "name": "equinix",
+            "icon": "https://logo.clearbit.com/https:/www.equinix.com/",
+            "average": 39
+        },
+        {
+            "name": "groq",
+            "icon": "https://logo.clearbit.com/Groq.com",
+            "average": 39
+        },
+        {
+            "name": "merl",
+            "icon": "https://logo.clearbit.com/MERL.com",
+            "average": 39
+        },
+        {
+            "name": "pandora",
+            "icon": "https://logo.clearbit.com/Pandora.com",
+            "average": 39
+        },
+        {
+            "name": "proctor & gamble",
+            "icon": "https://logo.clearbit.com/https:/us.pg.com/",
+            "average": 39
+        },
+        {
+            "name": "productiv",
+            "icon": "https://logo.clearbit.com/Productiv.com",
+            "average": 39
+        },
+        {
+            "name": "strategy&",
+            "icon": "https://logo.clearbit.com/pwc.com/",
+            "average": 39
+        },
+        {
+            "name": "viasat",
+            "icon": "https://logo.clearbit.com/Viasat.com",
+            "average": 39
+        },
+        {
+            "name": "walmart",
+            "icon": "https://logo.clearbit.com/Walmart.com",
+            "average": 39
+        },
+        {
+            "name": "appfolio",
+            "icon": "https://logo.clearbit.com/AppFolio.com",
+            "average": 38
+        },
+        {
+            "name": "applied materials",
+            "icon": "https://logo.clearbit.com/Appliedmaterials.com",
+            "average": 38
+        },
+        {
+            "name": "bank of america",
+            "icon": "https://logo.clearbit.com/bankofamerica.com",
+            "average": 38
+        },
+        {
+            "name": "bayer",
+            "icon": "https://logo.clearbit.com/Bayer.com",
+            "average": 38
+        },
+        {
+            "name": "blizzard",
+            "icon": "https://logo.clearbit.com/Blizzard.com",
+            "average": 38
+        },
+        {
+            "name": "cboe global markets",
+            "icon": "https://logo.clearbit.com/https:/www.cboe.com/",
+            "average": 38
+        },
+        {
+            "name": "circle",
+            "icon": "https://logo.clearbit.com/Circle.com",
+            "average": 38
+        },
+        {
+            "name": "dell",
+            "icon": "https://logo.clearbit.com/Dell.com",
+            "average": 38
+        },
+        {
+            "name": "esri",
+            "icon": "https://logo.clearbit.com/Esri.com",
+            "average": 38
+        },
+        {
+            "name": "hashicorp",
+            "icon": "https://logo.clearbit.com/HashiCorp.com",
+            "average": 38
+        },
+        {
+            "name": "intel",
+            "icon": "https://i.imgur.com/lWtA6W0.png",
+            "average": 38
+        },
+        {
+            "name": "iqvia",
+            "icon": "https://logo.clearbit.com/IQVIA.com",
+            "average": 38
+        },
+        {
+            "name": "lifion, adp",
+            "icon": "https://imgur.com/Utz1KLU",
+            "average": 38
+        },
+        {
+            "name": "mark43",
+            "icon": "https://logo.clearbit.com/Mark43.com",
+            "average": 38
+        },
+        {
+            "name": "mitek",
+            "icon": "https://i.imgur.com/7yovibg.png",
+            "average": 38
+        },
+        {
+            "name": "new relic",
+            "icon": "https://logo.clearbit.com/NewRelic.com",
+            "average": 38
+        },
+        {
+            "name": "parallel systems",
+            "icon": "https://i.imgur.com/fCK37pw.png",
+            "average": 38
+        },
+        {
+            "name": "pepsico",
+            "icon": "https://logo.clearbit.com/PepsiCo.com",
+            "average": 38
+        },
+        {
+            "name": "philips",
+            "icon": "https://logo.clearbit.com/Philips.com",
+            "average": 38
+        },
+        {
+            "name": "pwc",
+            "icon": "https://logo.clearbit.com/PWC.com",
+            "average": 38
+        },
+        {
+            "name": "qualtrics",
+            "icon": "https://i.imgur.com/tbrxKJl.png",
+            "average": 38
+        },
+        {
+            "name": "schneider electric",
+            "icon": "https://logo.clearbit.com/SchneiderElectric.com",
+            "average": 38
+        },
+        {
+            "name": "solarwinds",
+            "icon": "https://logo.clearbit.com/SolarWinds.com",
+            "average": 38
+        },
+        {
+            "name": "striveworks",
+            "icon": "https://logo.clearbit.com/Striveworks.com",
+            "average": 38
+        },
+        {
+            "name": "teradyne",
+            "icon": "https://logo.clearbit.com/Teradyne.com",
+            "average": 38
+        },
+        {
+            "name": "torc robotics",
+            "icon": "https://logo.clearbit.com/Torcrobotics.com",
+            "average": 38
+        },
+        {
+            "name": "tsuru capital",
+            "icon": "https://logo.clearbit.com/TsuruCapital.com",
+            "average": 38
+        },
+        {
+            "name": "t. rowe price",
+            "icon": "https://logo.clearbit.com/https:/www.troweprice.com",
+            "average": 38
+        },
+        {
+            "name": "venmo",
+            "icon": "https://logo.clearbit.com/Venmo.com",
+            "average": 38
+        },
+        {
+            "name": "verisk",
+            "icon": "https://logo.clearbit.com/Verisk.com",
+            "average": 38
+        },
+        {
+            "name": "arista networks",
+            "icon": "https://logo.clearbit.com/Arista.com",
+            "average": 37
+        },
+        {
+            "name": "arm",
+            "icon": "https://logo.clearbit.com/Arm.com",
+            "average": 37
+        },
+        {
+            "name": "bny mellon",
+            "icon": "https://logo.clearbit.com/BNYMellon.com",
+            "average": 37
+        },
+        {
+            "name": "bright health",
+            "icon": "https://logo.clearbit.com/BrightHealth.com",
+            "average": 37
+        },
+        {
+            "name": "cdk global",
+            "icon": "https://logo.clearbit.com/CDKGlobal.com",
+            "average": 37
+        },
+        {
+            "name": "credit suisse",
+            "icon": "https://logo.clearbit.com/CreditSuisse.com",
+            "average": 37
+        },
+        {
+            "name": "dimensional funds advisor",
+            "icon": "https://logo.clearbit.com/http:/www.us.dimensional.com/",
+            "average": 37
+        },
+        {
+            "name": "electronic arts",
+            "icon": "https://logo.clearbit.com/ElectronicArts.com",
+            "average": 37
+        },
+        {
+            "name": "juniper networks",
+            "icon": "https://logo.clearbit.com/JuniperNetworks.com",
+            "average": 37
+        },
+        {
+            "name": "marketaxess",
+            "icon": "https://logo.clearbit.com/MarketAxess.com",
+            "average": 37
+        },
+        {
+            "name": "marvell",
+            "icon": "https://logo.clearbit.com/Marvell.com",
+            "average": 37
+        },
+        {
+            "name": "sage bionetworks",
+            "icon": "https://imgur.com/R7H4za4.png",
+            "average": 37
+        },
+        {
+            "name": "sap",
+            "icon": "https://logo.clearbit.com/SAP.com",
+            "average": 37
+        },
+        {
+            "name": "vistaprint",
+            "icon": "https://i.imgur.com/z78iQCd.png",
+            "average": 37
+        },
+        {
+            "name": "wayfair",
+            "icon": "https://logo.clearbit.com/Wayfair.com",
+            "average": 37
+        },
+        {
+            "name": "wealthsimple",
+            "icon": "https://logo.clearbit.com/Wealthsimple.com",
+            "average": 37
+        },
+        {
+            "name": "workiva",
+            "icon": "https://logo.clearbit.com/Workiva.com",
+            "average": 37
+        },
+        {
+            "name": "alliancebernstein",
+            "icon": "https://logo.clearbit.com/AllianceBernstein.com",
+            "average": 36
+        },
+        {
+            "name": "amd",
+            "icon": "https://logo.clearbit.com/AMD.com",
+            "average": 36
+        },
+        {
+            "name": "amplitude",
+            "icon": "https://logo.clearbit.com/Amplitude.com",
+            "average": 36
+        },
+        {
+            "name": "asml",
+            "icon": "https://i.imgur.com/JXCem1L.png",
+            "average": 36
+        },
+        {
+            "name": "aspen technology",
+            "icon": "https://logo.clearbit.com/https:/www.aspentech.com/",
+            "average": 36
+        },
+        {
+            "name": "astranis",
+            "icon": "https://logo.clearbit.com/Astranis.com",
+            "average": 36
+        },
+        {
+            "name": "bliss point media",
+            "icon": "https://logo.clearbit.com/BlissPointMedia.com",
+            "average": 36
+        },
+        {
+            "name": "bloomenergy",
+            "icon": "https://logo.clearbit.com/BloomEnergy.com",
+            "average": 36
+        },
+        {
+            "name": "catalina",
+            "icon": "https://logo.clearbit.com/Catalina.com",
+            "average": 36
+        },
+        {
+            "name": "charles river development",
+            "icon": "https://logo.clearbit.com/criver.com",
+            "average": 36
+        },
+        {
+            "name": "chewy",
+            "icon": "https://logo.clearbit.com/chewy.com",
+            "average": 36
+        },
+        {
+            "name": "crowdai",
+            "icon": "https://logo.clearbit.com/CrowdAI.com",
+            "average": 36
+        },
+        {
+            "name": "epic systems",
+            "icon": "https://logo.clearbit.com/EpicSystems.com",
+            "average": 36
+        },
+        {
+            "name": "grainger",
+            "icon": "https://logo.clearbit.com/Grainger.com",
+            "average": 36
+        },
+        {
+            "name": "iterable",
+            "icon": "https://logo.clearbit.com/Iterable.com",
+            "average": 36
+        },
+        {
+            "name": "mathworks",
+            "icon": "https://logo.clearbit.com/Mathworks.com",
+            "average": 36
+        },
+        {
+            "name": "netapp",
+            "icon": "https://logo.clearbit.com/https:/NetApp.com/",
+            "average": 36
+        },
+        {
+            "name": "nike",
+            "icon": "https://logo.clearbit.com/nike.com",
+            "average": 36
+        },
+        {
+            "name": "nxp",
+            "icon": "https://logo.clearbit.com/NXP.com",
+            "average": 36
+        },
+        {
+            "name": "omnivision technologies",
+            "icon": "https://imgur.com/NTLu96V.png",
+            "average": 36
+        },
+        {
+            "name": "proofpoint",
+            "icon": "https://logo.clearbit.com/Proofpoint.com",
+            "average": 36
+        },
+        {
+            "name": "red ventures",
+            "icon": "https://logo.clearbit.com/RedVentures.com",
+            "average": 36
+        },
+        {
+            "name": "seagate",
+            "icon": "https://logo.clearbit.com/Seagate.com",
+            "average": 36
+        },
+        {
+            "name": "siriusxm",
+            "icon": "https://i.imgur.com/4Ia3Wi9.png",
+            "average": 36
+        },
+        {
+            "name": "synaptics",
+            "icon": "https://logo.clearbit.com/Synaptics.com",
+            "average": 36
+        },
+        {
+            "name": "tesla",
+            "icon": "https://logo.clearbit.com/Tesla.com",
+            "average": 36
+        },
+        {
+            "name": "thumbtack",
+            "icon": "https://logo.clearbit.com/Thumbtack.com",
+            "average": 36
+        },
+        {
+            "name": "unity technologies",
+            "icon": "https://logo.clearbit.com/Unity.com",
+            "average": 36
+        },
+        {
+            "name": "uplift",
+            "icon": "https://logo.clearbit.com/Uplift.com",
+            "average": 36
+        },
+        {
+            "name": "vanguard",
+            "icon": "https://logo.clearbit.com/Vanguard.com",
+            "average": 36
+        },
+        {
+            "name": "veeva",
+            "icon": "https://logo.clearbit.com/veeva.com",
+            "average": 36
+        },
+        {
+            "name": "west monroe",
+            "icon": "https://logo.clearbit.com/https:/www.westmonroepartners.com",
+            "average": 36
+        },
+        {
+            "name": "acorns",
+            "icon": "https://logo.clearbit.com/Acorns.com",
+            "average": 35
+        },
+        {
+            "name": "avigilon",
+            "icon": "https://logo.clearbit.com/Avigilon.com",
+            "average": 35
+        },
+        {
+            "name": "braintree",
+            "icon": "https://logo.clearbit.com/Braintree.com",
+            "average": 35
+        },
+        {
+            "name": "calix inc",
+            "icon": "https://logo.clearbit.com/calix.com",
+            "average": 35
+        },
+        {
+            "name": "cisco",
+            "icon": "https://logo.clearbit.com/Cisco.com",
+            "average": 35
+        },
+        {
+            "name": "cna insurance",
+            "icon": "https://logo.clearbit.com/CNA.com",
+            "average": 35
+        },
+        {
+            "name": "commvault",
+            "icon": "https://logo.clearbit.com/Commvault.com",
+            "average": 35
+        },
+        {
+            "name": "deloitte",
+            "icon": "https://logo.clearbit.com/Deloitte.com",
+            "average": 35
+        },
+        {
+            "name": "dtcc",
+            "icon": "https://logo.clearbit.com/http:/www.dtcc.com/",
+            "average": 35
+        },
+        {
+            "name": "first republic bank",
+            "icon": "https://logo.clearbit.com/Firstrepublicbank.com",
+            "average": 35
+        },
+        {
+            "name": "foundry digital",
+            "icon": "https://logo.clearbit.com/FoundryDigital.com",
+            "average": 35
+        },
+        {
+            "name": "google step",
+            "icon": "https://logo.clearbit.com/Google.com",
+            "average": 35
+        },
+        {
+            "name": "groupon",
+            "icon": "https://logo.clearbit.com/Groupon.com",
+            "average": 35
+        },
+        {
+            "name": "ibm",
+            "icon": "https://logo.clearbit.com/IBM.com",
+            "average": 35
+        },
+        {
+            "name": "lutron",
+            "icon": "https://logo.clearbit.com/Lutron.com",
+            "average": 35
+        },
+        {
+            "name": "mitchell international",
+            "icon": "https://logo.clearbit.com/mitchell.com/",
+            "average": 35
+        },
+        {
+            "name": "nasdaq",
+            "icon": "https://logo.clearbit.com/Nasdaq.com",
+            "average": 35
+        },
+        {
+            "name": "neo4j",
+            "icon": "https://logo.clearbit.com/Neo4J.com",
+            "average": 35
+        },
+        {
+            "name": "nerdwallet",
+            "icon": "https://logo.clearbit.com/NerdWallet.com",
+            "average": 35
+        },
+        {
+            "name": "nokia",
+            "icon": "https://logo.clearbit.com/Nokia.com",
+            "average": 35
+        },
+        {
+            "name": "osisoft",
+            "icon": "https://logo.clearbit.com/OSIsoft.com",
+            "average": 35
+        },
+        {
+            "name": "pax labs",
+            "icon": "https://logo.clearbit.com/https:/www.pax.com/",
+            "average": 35
+        },
+        {
+            "name": "pearson",
+            "icon": "https://logo.clearbit.com/pearson.com",
+            "average": 35
+        },
+        {
+            "name": "planet",
+            "icon": "https://logo.clearbit.com/Planet.com",
+            "average": 35
+        },
+        {
+            "name": "ptc",
+            "icon": "https://logo.clearbit.com/https:/www.ptc.com/",
+            "average": 35
+        },
+        {
+            "name": "red hat",
+            "icon": "https://logo.clearbit.com/RedHat.com",
+            "average": 35
+        },
+        {
+            "name": "salsify",
+            "icon": "https://logo.clearbit.com/Salsify.com",
+            "average": 35
+        },
+        {
+            "name": "sailpoint technologies",
+            "icon": "https://i.imgur.com/da76PpT.png",
+            "average": 35
+        },
+        {
+            "name": "samsung",
+            "icon": "https://logo.clearbit.com/Samsung.com",
+            "average": 35
+        },
+        {
+            "name": "simplisafe",
+            "icon": "https://logo.clearbit.com/SimpliSafe.com",
+            "average": 35
+        },
+        {
+            "name": "sonos",
+            "icon": "https://logo.clearbit.com/Sonos.com",
+            "average": 35
+        },
+        {
+            "name": "sony ai",
+            "icon": "https://imgur.com/buDqiHD.png",
+            "average": 35
+        },
+        {
+            "name": "the new york times",
+            "icon": "https://logo.clearbit.com/TheNewYorkTimes.com",
+            "average": 35
+        },
+        {
+            "name": "the realreal",
+            "icon": "https://logo.clearbit.com/TheRealReal.com",
+            "average": 35
+        },
+        {
+            "name": "toast",
+            "icon": "https://logo.clearbit.com/pos.toasttab.com",
+            "average": 35
+        },
+        {
+            "name": "top hat",
+            "icon": "https://logo.clearbit.com/TopHat.com",
+            "average": 35
+        },
+        {
+            "name": "tripadvisor",
+            "icon": "https://logo.clearbit.com/TripAdvisor.com",
+            "average": 35
+        },
+        {
+            "name": "walt disney company",
+            "icon": "https://logo.clearbit.com/disney.com",
+            "average": 35
+        },
+        {
+            "name": "whoop",
+            "icon": "https://logo.clearbit.com/WHOOP.com",
+            "average": 35
+        },
+        {
+            "name": "workboard",
+            "icon": "https://logo.clearbit.com/Workboard.com",
+            "average": 35
+        },
+        {
+            "name": "worldpay",
+            "icon": "https://logo.clearbit.com/FISglobal.com",
+            "average": 35
+        },
+        {
+            "name": "zs associates",
+            "icon": "https://logo.clearbit.com/ZSAssociates.com",
+            "average": 35
+        },
+        {
+            "name": "citrix",
+            "icon": "https://logo.clearbit.com/citrix.com",
+            "average": 34
+        },
+        {
+            "name": "comcast",
+            "icon": "https://logo.clearbit.com/Comcast.com",
+            "average": 34
+        },
+        {
+            "name": "disney",
+            "icon": "https://logo.clearbit.com/Disney.com",
+            "average": 34
+        },
+        {
+            "name": "ibm research",
+            "icon": "https://logo.clearbit.com/IBMResearch.com",
+            "average": 34
+        },
+        {
+            "name": "keeptruckin",
+            "icon": "https://imgur.com/EnJ8NBI.png",
+            "average": 34
+        },
+        {
+            "name": "lululemon",
+            "icon": "https://logo.clearbit.com/Lululemon.com",
+            "average": 34
+        },
+        {
+            "name": "mastercard",
+            "icon": "https://logo.clearbit.com/MasterCard.com",
+            "average": 34
+        },
+        {
+            "name": "mattermost",
+            "icon": "https://logo.clearbit.com/Mattermost.com",
+            "average": 34
+        },
+        {
+            "name": "p&g",
+            "icon": "https://logo.clearbit.com/https:/us.pg.com/",
+            "average": 34
+        },
+        {
+            "name": "abbvie",
+            "icon": "https://logo.clearbit.com/AbbVie.com",
+            "average": 33
+        },
+        {
+            "name": "adp",
+            "icon": "https://logo.clearbit.com/ADP.com",
+            "average": 33
+        },
+        {
+            "name": "allstate",
+            "icon": "https://logo.clearbit.com/Allstate.com",
+            "average": 33
+        },
+        {
+            "name": "amgen",
+            "icon": "https://logo.clearbit.com/Amgen.com",
+            "average": 33
+        },
+        {
+            "name": "arity",
+            "icon": "https://logo.clearbit.com/Arity.com",
+            "average": 33
+        },
+        {
+            "name": "at&t",
+            "icon": "https://imgur.com/vTf3hOR.png",
+            "average": 33
+        },
+        {
+            "name": "bp",
+            "icon": "https://i.imgur.com/GY3jdQv.png",
+            "average": 33
+        },
+        {
+            "name": "carrier",
+            "icon": "https://logo.clearbit.com/Carrier.com",
+            "average": 33
+        },
+        {
+            "name": "factset",
+            "icon": "https://logo.clearbit.com/FactSet.com",
+            "average": 33
+        },
+        {
+            "name": "ford",
+            "icon": "https://logo.clearbit.com/Ford.com",
+            "average": 33
+        },
+        {
+            "name": "genesys",
+            "icon": "https://logo.clearbit.com/Genesys.com",
+            "average": 33
+        },
+        {
+            "name": "infosys",
+            "icon": "https://logo.clearbit.com/Infosys.com",
+            "average": 33
+        },
+        {
+            "name": "johns hopkins applied physics lab",
+            "icon": "https://i.imgur.com/GWHUimO.png",
+            "average": 33
+        },
+        {
+            "name": "leo",
+            "icon": "https://logo.clearbit.com/Leo.com",
+            "average": 33
+        },
+        {
+            "name": "lta research",
+            "icon": "https://imgur.com/SDOSZTv.png",
+            "average": 33
+        },
+        {
+            "name": "lumentum",
+            "icon": "https://logo.clearbit.com/Lumentum.com",
+            "average": 33
+        },
+        {
+            "name": "microsoft explore",
+            "icon": "https://logo.clearbit.com/Microsoft.com",
+            "average": 33
+        },
+        {
+            "name": "reptrak",
+            "icon": "https://logo.clearbit.com/RepTrak.com",
+            "average": 33
+        },
+        {
+            "name": "schlumberger",
+            "icon": "https://logo.clearbit.com/Schlumberger.com",
+            "average": 33
+        },
+        {
+            "name": "skillz",
+            "icon": "https://logo.clearbit.com/Skillz.com",
+            "average": 33
+        },
+        {
+            "name": "skyworks solutions",
+            "icon": "https://logo.clearbit.com/http:/www.skyworksinc.com/",
+            "average": 33
+        },
+        {
+            "name": "visa",
+            "icon": "https://logo.clearbit.com/Visa.com",
+            "average": 33
+        },
+        {
+            "name": "walmart labs",
+            "icon": "https://logo.clearbit.com/Walmart.com",
+            "average": 33
+        },
+        {
+            "name": "wells fargo",
+            "icon": "https://logo.clearbit.com/WellsFargo.com",
+            "average": 33
+        },
+        {
+            "name": "agilent technologies",
+            "icon": "https://logo.clearbit.com/AgilentTechnologies.com",
+            "average": 32
+        },
+        {
+            "name": "alarm.com",
+            "icon": "https://logo.clearbit.com/alarm.com",
+            "average": 32
+        },
+        {
+            "name": "balbix",
+            "icon": "https://imgur.com/kqehiU0.png",
+            "average": 32
+        },
+        {
+            "name": "bandwidth",
+            "icon": "https://logo.clearbit.com/http:/www.Bandwidth.com",
+            "average": 32
+        },
+        {
+            "name": "brain",
+            "icon": "https://logo.clearbit.com/https:/www.braincorp.com",
+            "average": 32
+        },
+        {
+            "name": "capital group",
+            "icon": "https://logo.clearbit.com/CapitalGroup.com",
+            "average": 32
+        },
+        {
+            "name": "charles schwab",
+            "icon": "https://logo.clearbit.com/CharlesSchwab.com",
+            "average": 32
+        },
+        {
+            "name": "cme group",
+            "icon": "https://logo.clearbit.com/CMEGroup.com",
+            "average": 32
+        },
+        {
+            "name": "ernst & young",
+            "icon": "https://i.imgur.com/keXiUKS.png",
+            "average": 32
+        },
+        {
+            "name": "fannie mae",
+            "icon": "https://logo.clearbit.com/FannieMae.com",
+            "average": 32
+        },
+        {
+            "name": "general dynamics mission systems",
+            "icon": "https://logo.clearbit.com/GeneralDynamicsMissionSystems.com",
+            "average": 32
+        },
+        {
+            "name": "mailchimp",
+            "icon": "https://logo.clearbit.com/Mailchimp.com",
+            "average": 32
+        },
+        {
+            "name": "markforged",
+            "icon": "https://logo.clearbit.com/Markforged.com",
+            "average": 32
+        },
+        {
+            "name": "mufg",
+            "icon": "https://logo.clearbit.com/MUFG.jp",
+            "average": 32
+        },
+        {
+            "name": "new york life insurance",
+            "icon": "https://logo.clearbit.com/NewYorkLifeInsurance.com",
+            "average": 32
+        },
+        {
+            "name": "rally health",
+            "icon": "https://logo.clearbit.com/RallyHealth.com",
+            "average": 32
+        },
+        {
+            "name": "relativity",
+            "icon": "https://logo.clearbit.com/Relativity.com",
+            "average": 32
+        },
+        {
+            "name": "scholastic",
+            "icon": "https://logo.clearbit.com/Scholastic.com",
+            "average": 32
+        },
+        {
+            "name": "synchrony financial",
+            "icon": "https://logo.clearbit.com/SynchronyFinancial.com",
+            "average": 32
+        },
+        {
+            "name": "toyota connected",
+            "icon": "https://logo.clearbit.com/ToyotaConnected.com",
+            "average": 32
+        },
+        {
+            "name": "us bank",
+            "icon": "https://logo.clearbit.com/USBank.com",
+            "average": 32
+        },
+        {
+            "name": "american airlines",
+            "icon": "https://logo.clearbit.com/https:/www.aa.com",
+            "average": 31
+        },
+        {
+            "name": "broadridge",
+            "icon": "https://logo.clearbit.com/Broadridge.com",
+            "average": 31
+        },
+        {
+            "name": "chalice ai",
+            "icon": "https://imgur.com/K5meMlZ.png",
+            "average": 31
+        },
+        {
+            "name": "holidu",
+            "icon": "https://imgur.com/95t86Hq.png",
+            "average": 31
+        },
+        {
+            "name": "kla",
+            "icon": "https://logo.clearbit.com/KLA.com",
+            "average": 31
+        },
+        {
+            "name": "kpmg",
+            "icon": "https://logo.clearbit.com/KPMG.com",
+            "average": 31
+        },
+        {
+            "name": "lasalle",
+            "icon": "https://imgur.com/JHJDF5k.png",
+            "average": 31
+        },
+        {
+            "name": "lucid",
+            "icon": "https://imgur.com/5Imenu0.png",
+            "average": 31
+        },
+        {
+            "name": "micron technology",
+            "icon": "https://logo.clearbit.com/https:/www.micron.com/",
+            "average": 31
+        },
+        {
+            "name": "motorola",
+            "icon": "https://logo.clearbit.com/Motorola.com",
+            "average": 31
+        },
+        {
+            "name": "nuance",
+            "icon": "https://logo.clearbit.com/https:/www.nuance.com/",
+            "average": 31
+        },
+        {
+            "name": "pegasystems",
+            "icon": "https://logo.clearbit.com/Pegasystems.com",
+            "average": 31
+        },
+        {
+            "name": "rbc",
+            "icon": "https://logo.clearbit.com/http://www.rbcroyalbank.com/",
+            "average": 31
+        },
+        {
+            "name": "t-mobile",
+            "icon": "https://i.imgur.com/CL9OxTm.png",
+            "average": 31
+        },
+        {
+            "name": "text-em-all",
+            "icon": "https://i.imgur.com/V8gqTsS.png",
+            "average": 31
+        },
+        {
+            "name": "under armour",
+            "icon": "https://logo.clearbit.com/UnderArmour.com",
+            "average": 31
+        },
+        {
+            "name": "unqork",
+            "icon": "https://i.imgur.com/ApCl1Ii.png",
+            "average": 31
+        },
+        {
+            "name": "verizon",
+            "icon": "https://logo.clearbit.com/Verizon.com",
+            "average": 31
+        },
+        {
+            "name": "98point6",
+            "icon": "https://logo.clearbit.com/98point6.com",
+            "average": 30
+        },
+        {
+            "name": "alphagora",
+            "icon": "https://logo.clearbit.com/https:/alphagora.io/",
+            "average": 30
+        },
+        {
+            "name": "amplify",
+            "icon": "https://logo.clearbit.com/Amplify.com",
+            "average": 30
+        },
+        {
+            "name": "bae systems",
+            "icon": "https://logo.clearbit.com/BAESystems.com",
+            "average": 30
+        },
+        {
+            "name": "blue origin",
+            "icon": "https://logo.clearbit.com/blueorigin.com",
+            "average": 30
+        },
+        {
+            "name": "cambridge associates",
+            "icon": "https://logo.clearbit.com/CambridgeAssociates.com",
+            "average": 30
+        },
+        {
+            "name": "canoo",
+            "icon": "https://logo.clearbit.com/Canoo.com",
+            "average": 30
+        },
+        {
+            "name": "cbre",
+            "icon": "https://logo.clearbit.com/CBRE.com",
+            "average": 30
+        },
+        {
+            "name": "centro",
+            "icon": "https://logo.clearbit.com/Centro.net",
+            "average": 30
+        },
+        {
+            "name": "cepheid",
+            "icon": "https://logo.clearbit.com/Cepheid.com",
+            "average": 30
+        },
+        {
+            "name": "cerebras",
+            "icon": "https://logo.clearbit.com/https:/cerebras.net/",
+            "average": 30
+        },
+        {
+            "name": "certik",
+            "icon": "https://logo.clearbit.com/CertiK.com",
+            "average": 30
+        },
+        {
+            "name": "cirrus logic",
+            "icon": "https://logo.clearbit.com/CirrusLogic.com",
+            "average": 30
+        },
+        {
+            "name": "cond\u00e9 nast",
+            "icon": "https://imgur.com/zdczKEJ.png",
+            "average": 30
+        },
+        {
+            "name": "constant contact",
+            "icon": "https://logo.clearbit.com/ConstantContact.com",
+            "average": 30
+        },
+        {
+            "name": "cuna mutual",
+            "icon": "https://imgur.com/LjnxaDB.png",
+            "average": 30
+        },
+        {
+            "name": "curriculum associates",
+            "icon": "https://logo.clearbit.com/CurriculumAssociates.com",
+            "average": 30
+        },
+        {
+            "name": "cybergrx",
+            "icon": "https://logo.clearbit.com/CyberGRX.com",
+            "average": 30
+        },
+        {
+            "name": "dassault systemes",
+            "icon": "https://logo.clearbit.com/http://www.3ds.com/",
+            "average": 30
+        },
+        {
+            "name": "deutsche bank",
+            "icon": "https://imgur.com/Z1ETeOh.png",
+            "average": 30
+        },
+        {
+            "name": "devoted health",
+            "icon": "https://logo.clearbit.com/DevotedHealth.com",
+            "average": 30
+        },
+        {
+            "name": "directv",
+            "icon": "https://logo.clearbit.com/DirecTV.com",
+            "average": 30
+        },
+        {
+            "name": "duo security",
+            "icon": "https://logo.clearbit.com/DuoSecurity.com",
+            "average": 30
+        },
+        {
+            "name": "e*trade",
+            "icon": "https://logo.clearbit.com/ETRADE.com",
+            "average": 30
+        },
+        {
+            "name": "elliot management",
+            "icon": "https://logo.clearbit.com/https:/www.elliottmgmt.com/",
+            "average": 30
+        },
+        {
+            "name": "emetric",
+            "icon": "https://i.imgur.com/rdsdyxX.png",
+            "average": 30
+        },
+        {
+            "name": "ericsson",
+            "icon": "https://imgur.com/3kUUwiL.png",
+            "average": 30
+        },
+        {
+            "name": "eventbrite",
+            "icon": "https://logo.clearbit.com/Eventbrite.com",
+            "average": 30
+        },
+        {
+            "name": "evernote",
+            "icon": "https://logo.clearbit.com/Evernote.com",
+            "average": 30
+        },
+        {
+            "name": "fiat chrysler automobiles",
+            "icon": "https://i.imgur.com/oRsrPNs.png",
+            "average": 30
+        },
+        {
+            "name": "foreflight",
+            "icon": "https://logo.clearbit.com/Foreflight.com",
+            "average": 30
+        },
+        {
+            "name": "formlabs",
+            "icon": "https://logo.clearbit.com/Formlabs.com",
+            "average": 30
+        },
+        {
+            "name": "ge aviation",
+            "icon": "https://logo.clearbit.com/GEAviation.com",
+            "average": 30
+        },
+        {
+            "name": "honeywell",
+            "icon": "https://logo.clearbit.com/Honeywell.com",
+            "average": 30
+        },
+        {
+            "name": "ipg mediabrands",
+            "icon": "https://logo.clearbit.com/IPGMediabrands.com",
+            "average": 30
+        },
+        {
+            "name": "janus henderson investors",
+            "icon": "https://i.imgur.com/z2Xn0Pi.png",
+            "average": 30
+        },
+        {
+            "name": "john deere",
+            "icon": "https://logo.clearbit.com/https:/www.deere.com",
+            "average": 30
+        },
+        {
+            "name": "kitty hawk",
+            "icon": "https://logo.clearbit.com/kittyhawk.aero",
+            "average": 30
+        },
+        {
+            "name": "l3harris technologies",
+            "icon": "https://logo.clearbit.com/l3harris.com/",
+            "average": 30
+        },
+        {
+            "name": "lam research",
+            "icon": "https://logo.clearbit.com/LamResearch.com",
+            "average": 30
+        },
+        {
+            "name": "lytx",
+            "icon": "https://logo.clearbit.com/Lytx.com",
+            "average": 30
+        },
+        {
+            "name": "mcdonald\u2019s",
+            "icon": "https://logo.clearbit.com/https:/www.mcdonalds.com",
+            "average": 30
+        },
+        {
+            "name": "moogsoft",
+            "icon": "https://logo.clearbit.com/Moogsoft.com",
+            "average": 30
+        },
+        {
+            "name": "openeye scientific software",
+            "icon": "https://logo.clearbit.com/https://www.eyesopen.com/",
+            "average": 30
+        },
+        {
+            "name": "openx",
+            "icon": "https://logo.clearbit.com/OpenX.com",
+            "average": 30
+        },
+        {
+            "name": "paramount",
+            "icon": "https://logo.clearbit.com/Paramount.com",
+            "average": 30
+        },
+        {
+            "name": "publicis sapient",
+            "icon": "https://logo.clearbit.com/PublicisSapient.com",
+            "average": 30
+        },
+        {
+            "name": "pulse secure",
+            "icon": "https://logo.clearbit.com/pulsesecure.net",
+            "average": 30
+        },
+        {
+            "name": "quickbase inc",
+            "icon": "https://logo.clearbit.com/QuickbaseInc.com",
+            "average": 30
+        },
+        {
+            "name": "raytheon",
+            "icon": "https://logo.clearbit.com/rtx.com/",
+            "average": 30
+        },
+        {
+            "name": "rent the runway",
+            "icon": "https://logo.clearbit.com/RenttheRunway.com",
+            "average": 30
+        },
+        {
+            "name": "rivet health",
+            "icon": "https://logo.clearbit.com/RivetHealth.com",
+            "average": 30
+        },
+        {
+            "name": "sap concur",
+            "icon": "https://logo.clearbit.com/http://www.concur.com/",
+            "average": 30
+        },
+        {
+            "name": "s&c electric",
+            "icon": "https://imgur.com/4xuWRVG.png",
+            "average": 30
+        },
+        {
+            "name": "sleep number",
+            "icon": "https://logo.clearbit.com/SleepNumber.com",
+            "average": 30
+        },
+        {
+            "name": "smartsheet",
+            "icon": "https://logo.clearbit.com/Smartsheet.com",
+            "average": 30
+        },
+        {
+            "name": "the boring company",
+            "icon": "https://logo.clearbit.com/TheBoringCompany.com",
+            "average": 30
+        },
+        {
+            "name": "the hartford",
+            "icon": "https://logo.clearbit.com/https:/www.thehartford.com/",
+            "average": 30
+        },
+        {
+            "name": "the washington post",
+            "icon": "https://logo.clearbit.com/TheWashingtonPost.com",
+            "average": 30
+        },
+        {
+            "name": "travelers insurance",
+            "icon": "https://logo.clearbit.com/TravelersInsurance.com",
+            "average": 30
+        },
+        {
+            "name": "united airlines",
+            "icon": "https://logo.clearbit.com/https:/www.united.com/",
+            "average": 30
+        },
+        {
+            "name": "unitedhealth group",
+            "icon": "https://logo.clearbit.com/UnitedHealthGroup.com",
+            "average": 30
+        },
+        {
+            "name": "urjanet",
+            "icon": "https://logo.clearbit.com/Urjanet.com",
+            "average": 30
+        },
+        {
+            "name": "viacomcbs",
+            "icon": "https://logo.clearbit.com/ViacomCBS.com",
+            "average": 30
+        },
+        {
+            "name": "washington post",
+            "icon": "https://logo.clearbit.com/https:/www.washingtonpost.com/",
+            "average": 30
+        },
+        {
+            "name": "western digital",
+            "icon": "https://logo.clearbit.com/WesternDigital.com",
+            "average": 30
+        },
+        {
+            "name": "xpanse",
+            "icon": "https://logo.clearbit.com/Xpanse.com",
+            "average": 30
+        },
+        {
+            "name": "zumper",
+            "icon": "https://logo.clearbit.com/Zumper.com",
+            "average": 30
+        },
+        {
+            "name": "aimsio",
+            "icon": "https://logo.clearbit.com/Aimsio.com",
+            "average": 29
+        },
+        {
+            "name": "bentley",
+            "icon": "https://logo.clearbit.com/Bentley.com",
+            "average": 29
+        },
+        {
+            "name": "carmax",
+            "icon": "https://logo.clearbit.com/Carmax.com",
+            "average": 29
+        },
+        {
+            "name": "cummins",
+            "icon": "https://logo.clearbit.com/Cummins.com",
+            "average": 29
+        },
+        {
+            "name": "fidelity investments",
+            "icon": "https://logo.clearbit.com/fidelityinvestments.com",
+            "average": 29
+        },
+        {
+            "name": "general atomics",
+            "icon": "https://logo.clearbit.com/GeneralAtomics.com",
+            "average": 29
+        },
+        {
+            "name": "general motors",
+            "icon": "https://logo.clearbit.com/GeneralMotors.com",
+            "average": 29
+        },
+        {
+            "name": "hitachi",
+            "icon": "https://logo.clearbit.com/Hitachi.com",
+            "average": 29
+        },
+        {
+            "name": "lucid software",
+            "icon": "https://logo.clearbit.com/https://lucid.co/",
+            "average": 29
+        },
+        {
+            "name": "national grid",
+            "icon": "https://logo.clearbit.com/NationalGrid.com",
+            "average": 29
+        },
+        {
+            "name": "ncr",
+            "icon": "https://logo.clearbit.com/NCR.com",
+            "average": 29
+        },
+        {
+            "name": "northrop grumman",
+            "icon": "https://logo.clearbit.com/NorthropGrumman.com",
+            "average": 29
+        },
+        {
+            "name": "ocient",
+            "icon": "https://logo.clearbit.com/Ocient.com",
+            "average": 29
+        },
+        {
+            "name": "paylocity",
+            "icon": "https://logo.clearbit.com/Paylocity.com",
+            "average": 29
+        },
+        {
+            "name": "retail business services",
+            "icon": "https://logo.clearbit.com/RetailBusinessServices.com",
+            "average": 29
+        },
+        {
+            "name": "siemens healthineers",
+            "icon": "https://logo.clearbit.com/https:/www.siemens-healthineers.com/",
+            "average": 29
+        },
+        {
+            "name": "segment",
+            "icon": "https://logo.clearbit.com/Segment.com",
+            "average": 29
+        },
+        {
+            "name": "target",
+            "icon": "https://logo.clearbit.com/Target.com",
+            "average": 29
+        },
+        {
+            "name": "tc energy",
+            "icon": "https://logo.clearbit.com/Tcenergy.com",
+            "average": 29
+        },
+        {
+            "name": "willowtree",
+            "icon": "https://i.imgur.com/L1gzQx6.png",
+            "average": 29
+        },
+        {
+            "name": "3m",
+            "icon": "https://logo.clearbit.com/3M.com",
+            "average": 28
+        },
+        {
+            "name": "abbott laboratories",
+            "icon": "https://logo.clearbit.com/https:/www.abbott.com/",
+            "average": 28
+        },
+        {
+            "name": "alphagrep",
+            "icon": "https://i.imgur.com/mPGei4z.png",
+            "average": 28
+        },
+        {
+            "name": "altair engineering",
+            "icon": "https://logo.clearbit.com/altair.com",
+            "average": 28
+        },
+        {
+            "name": "arup",
+            "icon": "https://logo.clearbit.com/Arup.com",
+            "average": 28
+        },
+        {
+            "name": "best buy",
+            "icon": "https://logo.clearbit.com/BestBuy.com",
+            "average": 28
+        },
+        {
+            "name": "bmo",
+            "icon": "https://logo.clearbit.com/BMO.com",
+            "average": 28
+        },
+        {
+            "name": "boeing",
+            "icon": "https://logo.clearbit.com/Boeing.com",
+            "average": 28
+        },
+        {
+            "name": "ccc information service",
+            "icon": "https://logo.clearbit.com/CCCIntelligentSolutions.com",
+            "average": 28
+        },
+        {
+            "name": "censys",
+            "icon": "https://logo.clearbit.com/censys.io/",
+            "average": 28
+        },
+        {
+            "name": "clearco",
+            "icon": "https://logo.clearbit.com/Clearco.com",
+            "average": 28
+        },
+        {
+            "name": "collins aerospace",
+            "icon": "https://logo.clearbit.com/collinsaerospace.com",
+            "average": 28
+        },
+        {
+            "name": "country financial",
+            "icon": "https://logo.clearbit.com/CountryFInancial.com",
+            "average": 28
+        },
+        {
+            "name": "cox automotive",
+            "icon": "https://logo.clearbit.com/coxautoinc.com",
+            "average": 28
+        },
+        {
+            "name": "est\u00e9e lauder",
+            "icon": "https://logo.clearbit.com/http://www.esteelauder.com/",
+            "average": 28
+        },
+        {
+            "name": "expedition technology",
+            "icon": "https://logo.clearbit.com/https:/www.exptechinc.com/",
+            "average": 28
+        },
+        {
+            "name": "garmin",
+            "icon": "https://logo.clearbit.com/Garmin.com",
+            "average": 28
+        },
+        {
+            "name": "general dynamics",
+            "icon": "https://logo.clearbit.com/GeneralDynamics.com",
+            "average": 28
+        },
+        {
+            "name": "h-e-b",
+            "icon": "https://logo.clearbit.com/https:/www.heb.com/",
+            "average": 28
+        },
+        {
+            "name": "integral ad science",
+            "icon": "https://logo.clearbit.com/IntegralAdScience.com",
+            "average": 28
+        },
+        {
+            "name": "irobot",
+            "icon": "https://i.imgur.com/6OWo9vT.png",
+            "average": 28
+        },
+        {
+            "name": "keysight",
+            "icon": "https://logo.clearbit.com/https:/www.keysight.com/",
+            "average": 28
+        },
+        {
+            "name": "kohl's",
+            "icon": "https://logo.clearbit.com/Kohls.com",
+            "average": 28
+        },
+        {
+            "name": "liberty mutual",
+            "icon": "https://logo.clearbit.com/LibertyMutual.com",
+            "average": 28
+        },
+        {
+            "name": "lids",
+            "icon": "https://logo.clearbit.com/https:/www.lids.com/",
+            "average": 28
+        },
+        {
+            "name": "lockheed martin",
+            "icon": "https://logo.clearbit.com/LockheedMartin.com",
+            "average": 28
+        },
+        {
+            "name": "lucid motors",
+            "icon": "https://logo.clearbit.com/LucidMotors.com",
+            "average": 28
+        },
+        {
+            "name": "lumen",
+            "icon": "https://logo.clearbit.com/Lumen.com",
+            "average": 28
+        },
+        {
+            "name": "manulife",
+            "icon": "https://logo.clearbit.com/Manulife.com",
+            "average": 28
+        },
+        {
+            "name": "medtronic",
+            "icon": "https://logo.clearbit.com/medtronic.com",
+            "average": 28
+        },
+        {
+            "name": "opengear",
+            "icon": "https://logo.clearbit.com/Opengear.com",
+            "average": 28
+        },
+        {
+            "name": "optum",
+            "icon": "https://logo.clearbit.com/Optum.com",
+            "average": 28
+        },
+        {
+            "name": "pendo.io",
+            "icon": "https://logo.clearbit.com/https:/www.pendo.io/",
+            "average": 28
+        },
+        {
+            "name": "principal financial group",
+            "icon": "https://imgur.com/pXK7DkY.png",
+            "average": 28
+        },
+        {
+            "name": "smart technologies",
+            "icon": "https://imgur.com/e9TaGc2.png",
+            "average": 28
+        },
+        {
+            "name": "starlink",
+            "icon": "https://logo.clearbit.com/Starlink.com",
+            "average": 28
+        },
+        {
+            "name": "surescripts",
+            "icon": "https://logo.clearbit.com/SureScripts.com",
+            "average": 28
+        },
+        {
+            "name": "thomson reuters",
+            "icon": "https://logo.clearbit.com/ThomsonReuters.com",
+            "average": 28
+        },
+        {
+            "name": "tiaa",
+            "icon": "https://logo.clearbit.com/TIAA.com",
+            "average": 28
+        },
+        {
+            "name": "tjx",
+            "icon": "https://logo.clearbit.com/TJX.com",
+            "average": 28
+        },
+        {
+            "name": "trimble",
+            "icon": "https://logo.clearbit.com/Trimble.com",
+            "average": 28
+        },
+        {
+            "name": "ultimate software",
+            "icon": "https://logo.clearbit.com/UltimateSoftware.com",
+            "average": 28
+        },
+        {
+            "name": "wabtec",
+            "icon": "https://logo.clearbit.com/Wabtec.com",
+            "average": 28
+        },
+        {
+            "name": "ww",
+            "icon": "https://logo.clearbit.com/WW.com",
+            "average": 28
+        },
+        {
+            "name": "zynga",
+            "icon": "https://i.imgur.com/zNirXbc.jpeg",
+            "average": 28
+        },
+        {
+            "name": "align technology",
+            "icon": "https://logo.clearbit.com/http:/www.aligntech.com",
+            "average": 27
+        },
+        {
+            "name": "ansys",
+            "icon": "https://logo.clearbit.com/Ansys.com",
+            "average": 27
+        },
+        {
+            "name": "aptiv",
+            "icon": "https://logo.clearbit.com/Aptiv.com",
+            "average": 27
+        },
+        {
+            "name": "avanade",
+            "icon": "https://logo.clearbit.com/Avanade.com",
+            "average": 27
+        },
+        {
+            "name": "canva",
+            "icon": "https://logo.clearbit.com/Canva.com",
+            "average": 27
+        },
+        {
+            "name": "ceridian",
+            "icon": "https://logo.clearbit.com/Ceridian.com",
+            "average": 27
+        },
+        {
+            "name": "ch robinson",
+            "icon": "https://logo.clearbit.com/CHRobinson.com",
+            "average": 27
+        },
+        {
+            "name": "chevron",
+            "icon": "https://logo.clearbit.com/Chevron.com",
+            "average": 27
+        },
+        {
+            "name": "chick-fil-a",
+            "icon": "https://logo.clearbit.com/Chick-Fil-A.com",
+            "average": 27
+        },
+        {
+            "name": "conocophillips",
+            "icon": "https://logo.clearbit.com/conocophillips.com",
+            "average": 27
+        },
+        {
+            "name": "c spire",
+            "icon": "https://imgur.com/hTMycHs.png",
+            "average": 27
+        },
+        {
+            "name": "cubic",
+            "icon": "https://logo.clearbit.com/Cubic.com",
+            "average": 27
+        },
+        {
+            "name": "discover",
+            "icon": "https://logo.clearbit.com/Discover.com",
+            "average": 27
+        },
+        {
+            "name": "dish network",
+            "icon": "https://logo.clearbit.com/DishNetwork.com",
+            "average": 27
+        },
+        {
+            "name": "enlighted",
+            "icon": "https://logo.clearbit.com/EnlightedInc.com",
+            "average": 27
+        },
+        {
+            "name": "finra",
+            "icon": "https://logo.clearbit.com/https://www.finra.org/",
+            "average": 27
+        },
+        {
+            "name": "fluke",
+            "icon": "https://logo.clearbit.com/Fluke.com",
+            "average": 27
+        },
+        {
+            "name": "fujitsu",
+            "icon": "https://logo.clearbit.com/Fujitsu.com",
+            "average": 27
+        },
+        {
+            "name": "general electric",
+            "icon": "https://imgur.com/ppmGMDh.png",
+            "average": 27
+        },
+        {
+            "name": "global traffic technologies",
+            "icon": "https://logo.clearbit.com/https:/www.gtt.com/",
+            "average": 27
+        },
+        {
+            "name": "huawei",
+            "icon": "https://logo.clearbit.com/Huawei.com",
+            "average": 27
+        },
+        {
+            "name": "hudl",
+            "icon": "https://i.imgur.com/jRE4nhL.png",
+            "average": 27
+        },
+        {
+            "name": "icims",
+            "icon": "https://logo.clearbit.com/iCIMs.com",
+            "average": 27
+        },
+        {
+            "name": "imvu",
+            "icon": "https://logo.clearbit.com/imvu.com",
+            "average": 27
+        },
+        {
+            "name": "itx corp.",
+            "icon": "https://logo.clearbit.com/https://itx.com/",
+            "average": 27
+        },
+        {
+            "name": "leidos",
+            "icon": "https://logo.clearbit.com/Leidos.com",
+            "average": 27
+        },
+        {
+            "name": "metlife",
+            "icon": "https://logo.clearbit.com/MetLife.com",
+            "average": 27
+        },
+        {
+            "name": "mit lincoln laboratory",
+            "icon": "https://imgur.com/q3WgzBE.png",
+            "average": 27
+        },
+        {
+            "name": "mitre",
+            "icon": "https://logo.clearbit.com/http:/www.mitre.org/",
+            "average": 27
+        },
+        {
+            "name": "mphasis",
+            "icon": "https://logo.clearbit.com/mphasis.com",
+            "average": 27
+        },
+        {
+            "name": "pluralsight",
+            "icon": "https://logo.clearbit.com/Pluralsight.com",
+            "average": 27
+        },
+        {
+            "name": "relativity space",
+            "icon": "https://logo.clearbit.com/RelativitySpace.com",
+            "average": 27
+        },
+        {
+            "name": "roche",
+            "icon": "https://logo.clearbit.com/Roche.com",
+            "average": 27
+        },
+        {
+            "name": "seeq",
+            "icon": "https://logo.clearbit.com/Seeq.com",
+            "average": 27
+        },
+        {
+            "name": "spacex",
+            "icon": "https://logo.clearbit.com/SpaceX.com",
+            "average": 27
+        },
+        {
+            "name": "starry",
+            "icon": "https://logo.clearbit.com/starry.com",
+            "average": 27
+        },
+        {
+            "name": "state farm",
+            "icon": "https://logo.clearbit.com/StateFarm.com",
+            "average": 27
+        },
+        {
+            "name": "td ameritrade",
+            "icon": "https://logo.clearbit.com/https:/www.td.com",
+            "average": 27
+        },
+        {
+            "name": "ups",
+            "icon": "https://logo.clearbit.com/UPS.com",
+            "average": 27
+        },
+        {
+            "name": "us foods",
+            "icon": "https://logo.clearbit.com/USFoods.com",
+            "average": 27
+        },
+        {
+            "name": "wp engine",
+            "icon": "https://logo.clearbit.com/https:/wpengine.com/",
+            "average": 27
+        },
+        {
+            "name": "1uphealth",
+            "icon": "https://logo.clearbit.com/https:/1up.health/",
+            "average": 26
+        },
+        {
+            "name": "2k",
+            "icon": "https://logo.clearbit.com/2K.com",
+            "average": 26
+        },
+        {
+            "name": "ada support",
+            "icon": "https://i.imgur.com/cYhs1n4.png",
+            "average": 26
+        },
+        {
+            "name": "air force research laboratory",
+            "icon": "https://logo.clearbit.com/https:/www.afrl.af.mil",
+            "average": 26
+        },
+        {
+            "name": "ally financial",
+            "icon": "https://logo.clearbit.com/AllyFinancial.com",
+            "average": 26
+        },
+        {
+            "name": "anthem",
+            "icon": "https://logo.clearbit.com/Anthem.com",
+            "average": 26
+        },
+        {
+            "name": "avionica llc.",
+            "icon": "https://i.imgur.com/d8i7OgJ.png",
+            "average": 26
+        },
+        {
+            "name": "bazaarvoice",
+            "icon": "https://logo.clearbit.com/BazaarVoice.com",
+            "average": 26
+        },
+        {
+            "name": "bell canada",
+            "icon": "https://logo.clearbit.com/https://www.bell.ca/",
+            "average": 26
+        },
+        {
+            "name": "blue cross and blue shield of north carolina",
+            "icon": "https://logo.clearbit.com/http://www.bluecrossnc.com/",
+            "average": 26
+        },
+        {
+            "name": "commscope",
+            "icon": "https://logo.clearbit.com/http:/www.commscope.com/",
+            "average": 26
+        },
+        {
+            "name": "draper",
+            "icon": "https://logo.clearbit.com/Draper.com",
+            "average": 26
+        },
+        {
+            "name": "finbourne",
+            "icon": "https://imgur.com/7bnO5yr.png",
+            "average": 26
+        },
+        {
+            "name": "geico",
+            "icon": "https://logo.clearbit.com/Geico.com",
+            "average": 26
+        },
+        {
+            "name": "gtri",
+            "icon": "https://logo.clearbit.com/gatech.edu",
+            "average": 26
+        },
+        {
+            "name": "honda",
+            "icon": "https://logo.clearbit.com/Honda.com",
+            "average": 26
+        },
+        {
+            "name": "kaiser permanente",
+            "icon": "https://logo.clearbit.com/https:/healthy.kaiserpermanente.org/",
+            "average": 26
+        },
+        {
+            "name": "milwaukee tool",
+            "icon": "https://logo.clearbit.com/MilwaukeeTool.com",
+            "average": 26
+        },
+        {
+            "name": "nbcuniversal",
+            "icon": "https://logo.clearbit.com/NBCUniversal.com",
+            "average": 26
+        },
+        {
+            "name": "redhat",
+            "icon": "https://logo.clearbit.com/RedHat.com",
+            "average": 26
+        },
+        {
+            "name": "rockwell automation",
+            "icon": "https://logo.clearbit.com/RockwellAutomation.com",
+            "average": 26
+        },
+        {
+            "name": "sabre corporation",
+            "icon": "https://logo.clearbit.com/sabre.com/",
+            "average": 26
+        },
+        {
+            "name": "siemens",
+            "icon": "https://logo.clearbit.com/Siemens.com",
+            "average": 26
+        },
+        {
+            "name": "ssense",
+            "icon": "https://logo.clearbit.com/SSENSE.com",
+            "average": 26
+        },
+        {
+            "name": "texas instruments",
+            "icon": "https://logo.clearbit.com/TexasInstruments.com",
+            "average": 26
+        },
+        {
+            "name": "thinkific",
+            "icon": "https://logo.clearbit.com/Thinkific.com",
+            "average": 26
+        },
+        {
+            "name": "union pacific",
+            "icon": "https://logo.clearbit.com/UnionPacific.com",
+            "average": 26
+        },
+        {
+            "name": "zebra technologies",
+            "icon": "https://imgur.com/SbWXeg4.png",
+            "average": 26
+        },
+        {
+            "name": "84.51 degrees",
+            "icon": "https://logo.clearbit.com/8451.com/",
+            "average": 25
+        },
+        {
+            "name": "achronix",
+            "icon": "https://logo.clearbit.com/Achronix.com",
+            "average": 25
+        },
+        {
+            "name": "amdocs",
+            "icon": "https://logo.clearbit.com/Amdocs.com",
+            "average": 25
+        },
+        {
+            "name": "analytical graphics",
+            "icon": "https://logo.clearbit.com/https:/www.agi.com/",
+            "average": 25
+        },
+        {
+            "name": "bdo digital",
+            "icon": "https://imgur.com/P1TI7Jz.png",
+            "average": 25
+        },
+        {
+            "name": "benefitfocus",
+            "icon": "https://logo.clearbit.com/Benefitfocus.com",
+            "average": 25
+        },
+        {
+            "name": "biomarin pharmaceutical",
+            "icon": "https://logo.clearbit.com/http://www.biomarin.com/",
+            "average": 25
+        },
+        {
+            "name": "blackbaud",
+            "icon": "https://logo.clearbit.com/Blackbaud.com",
+            "average": 25
+        },
+        {
+            "name": "blackberry",
+            "icon": "http://logo.clearbit.com/blackberry.com/",
+            "average": 25
+        },
+        {
+            "name": "blackhawk network",
+            "icon": "https://logo.clearbit.com/http://www.blackhawknetwork.com/",
+            "average": 25
+        },
+        {
+            "name": "blue yonder",
+            "icon": "https://logo.clearbit.com/BlueYonder.com",
+            "average": 25
+        },
+        {
+            "name": "caci international",
+            "icon": "https://logo.clearbit.com/https:/www.caci.com/",
+            "average": 25
+        },
+        {
+            "name": "cdw",
+            "icon": "https://i.imgur.com/2tSJZO6.png",
+            "average": 25
+        },
+        {
+            "name": "centene corporation",
+            "icon": "https://logo.clearbit.com/https:/www.centene.com/",
+            "average": 25
+        },
+        {
+            "name": "cgi",
+            "icon": "https://imgur.com/tnaZMce.png",
+            "average": 25
+        },
+        {
+            "name": "chartbeat",
+            "icon": "https://logo.clearbit.com/Chartbeat.com",
+            "average": 25
+        },
+        {
+            "name": "chatham financial",
+            "icon": "https://logo.clearbit.com/https:/www.chathamfinancial.com/",
+            "average": 25
+        },
+        {
+            "name": "childplus software",
+            "icon": "https://imgur.com/Sy4akRL.png",
+            "average": 25
+        },
+        {
+            "name": "cibc",
+            "icon": "https://logo.clearbit.com/CIBC.com",
+            "average": 25
+        },
+        {
+            "name": "clipr",
+            "icon": "https://logo.clearbit.com/https:/clipr.xyz/",
+            "average": 25
+        },
+        {
+            "name": "clover networks",
+            "icon": "https://logo.clearbit.com/Clover.com",
+            "average": 25
+        },
+        {
+            "name": "cnbc",
+            "icon": "https://logo.clearbit.com/CNBC.com",
+            "average": 25
+        },
+        {
+            "name": "credera",
+            "icon": "https://logo.clearbit.com/Credera.com",
+            "average": 25
+        },
+        {
+            "name": "d2l",
+            "icon": "https://logo.clearbit.com/D2L.com",
+            "average": 25
+        },
+        {
+            "name": "dick's sporting goods",
+            "icon": "https://logo.clearbit.com/dickssportinggoods.com/",
+            "average": 25
+        },
+        {
+            "name": "eaton",
+            "icon": "https://logo.clearbit.com/Eaton.com",
+            "average": 25
+        },
+        {
+            "name": "echodyne",
+            "icon": "https://imgur.com/n2rhDsL.png",
+            "average": 25
+        },
+        {
+            "name": "exelon",
+            "icon": "https://logo.clearbit.com/exeloncorp.com",
+            "average": 25
+        },
+        {
+            "name": "fedex",
+            "icon": "https://logo.clearbit.com/https:/www.fedex.com",
+            "average": 25
+        },
+        {
+            "name": "humana",
+            "icon": "https://logo.clearbit.com/Humana.com",
+            "average": 25
+        },
+        {
+            "name": "id.me",
+            "icon": "https://i.imgur.com/i42y2WR.png",
+            "average": 25
+        },
+        {
+            "name": "influxdata",
+            "icon": "https://logo.clearbit.com/https:/www.influxdata.com/",
+            "average": 25
+        },
+        {
+            "name": "infor",
+            "icon": "https://logo.clearbit.com/Infor.com",
+            "average": 25
+        },
+        {
+            "name": "inovalon",
+            "icon": "https://logo.clearbit.com/Inovalon.com",
+            "average": 25
+        },
+        {
+            "name": "intersystems",
+            "icon": "https://logo.clearbit.com/InterSystems.com",
+            "average": 25
+        },
+        {
+            "name": "itron",
+            "icon": "https://logo.clearbit.com/itron.com",
+            "average": 25
+        },
+        {
+            "name": "its",
+            "icon": "https://imgur.com/c81cNIB.png",
+            "average": 25
+        },
+        {
+            "name": "koch",
+            "icon": "https://i.imgur.com/NVEoGwG.png",
+            "average": 25
+        },
+        {
+            "name": "m1 finance",
+            "icon": "https://logo.clearbit.com/M1Finance.com",
+            "average": 25
+        },
+        {
+            "name": "manhattan associates",
+            "icon": "https://logo.clearbit.com/ManhattanAssociates.com",
+            "average": 25
+        },
+        {
+            "name": "marathon petroleum",
+            "icon": "https://i.imgur.com/mbwxi6G.png",
+            "average": 25
+        },
+        {
+            "name": "mazda",
+            "icon": "https://logo.clearbit.com/Mazda.com",
+            "average": 25
+        },
+        {
+            "name": "mcdonald's",
+            "icon": "https://logo.clearbit.com/https:/www.mcdonalds.com",
+            "average": 25
+        },
+        {
+            "name": "mercury systems",
+            "icon": "https://imgur.com/RQ1QwnQ.png",
+            "average": 25
+        },
+        {
+            "name": "metricstream",
+            "icon": "https://logo.clearbit.com/MetricStream.com",
+            "average": 25
+        },
+        {
+            "name": "microstrategy",
+            "icon": "https://logo.clearbit.com/MicroStrategy.com",
+            "average": 25
+        },
+        {
+            "name": "morningstar",
+            "icon": "https://logo.clearbit.com/Morningstar.com",
+            "average": 25
+        },
+        {
+            "name": "moxe health",
+            "icon": "https://i.imgur.com/b0MzOcJ.png",
+            "average": 25
+        },
+        {
+            "name": "myst ai",
+            "icon": "https://logo.clearbit.com/https:/www.myst.ai/",
+            "average": 25
+        },
+        {
+            "name": "national instruments",
+            "icon": "https://i.imgur.com/Du7j9kd.png",
+            "average": 25
+        },
+        {
+            "name": "nextworld",
+            "icon": "https://logo.clearbit.com/Nextworld.com",
+            "average": 25
+        },
+        {
+            "name": "northwestern mutual",
+            "icon": "https://logo.clearbit.com/NorthwesternMutual.com",
+            "average": 25
+        },
+        {
+            "name": "numo",
+            "icon": "https://logo.clearbit.com/numo.com",
+            "average": 25
+        },
+        {
+            "name": "nutrien",
+            "icon": "https://logo.clearbit.com/https:/www.nutrien.com/",
+            "average": 25
+        },
+        {
+            "name": "office depot",
+            "icon": "https://logo.clearbit.com/officedepot.com",
+            "average": 25
+        },
+        {
+            "name": "onsemi",
+            "icon": "https://logo.clearbit.com/Onsemi.com",
+            "average": 25
+        },
+        {
+            "name": "paccar",
+            "icon": "https://i.imgur.com/GXe8AMj.png",
+            "average": 25
+        },
+        {
+            "name": "pattern",
+            "icon": "https://logo.clearbit.com/Pattern.com",
+            "average": 25
+        },
+        {
+            "name": "paycom",
+            "icon": "https://logo.clearbit.com/Paycom.com",
+            "average": 25
+        },
+        {
+            "name": "pci strategic management",
+            "icon": "https://logo.clearbit.com/https:/gopci.com/",
+            "average": 25
+        },
+        {
+            "name": "pnc",
+            "icon": "https://logo.clearbit.com/PNC.com",
+            "average": 25
+        },
+        {
+            "name": "pratt miller",
+            "icon": "https://logo.clearbit.com/PrattMiller.com",
+            "average": 25
+        },
+        {
+            "name": "pros",
+            "icon": "https://logo.clearbit.com/PROS.com",
+            "average": 25
+        },
+        {
+            "name": "punch through",
+            "icon": "https://logo.clearbit.com/PunchThroughDesign.com",
+            "average": 25
+        },
+        {
+            "name": "quest diagnostics",
+            "icon": "https://logo.clearbit.com/QuestDiagnostics.com",
+            "average": 25
+        },
+        {
+            "name": "raptor maps",
+            "icon": "https://logo.clearbit.com/RaptorMaps.com",
+            "average": 25
+        },
+        {
+            "name": "realtor.com",
+            "icon": "https://logo.clearbit.com/realtor.com",
+            "average": 25
+        },
+        {
+            "name": "relay robotics",
+            "icon": "https://i.imgur.com/UG8Lh5O.png",
+            "average": 25
+        },
+        {
+            "name": "robert half",
+            "icon": "https://logo.clearbit.com/RobertHalf.com",
+            "average": 25
+        },
+        {
+            "name": "slalom",
+            "icon": "https://logo.clearbit.com/Slalom.com",
+            "average": 25
+        },
+        {
+            "name": "slalom build",
+            "icon": "https://logo.clearbit.com/SlalomBuild.com",
+            "average": 25
+        },
+        {
+            "name": "sas",
+            "icon": "https://logo.clearbit.com/SASInstitute.com",
+            "average": 25
+        },
+        {
+            "name": "scotiabank",
+            "icon": "https://logo.clearbit.com/Scotiabank.com",
+            "average": 25
+        },
+        {
+            "name": "securian financial",
+            "icon": "https://logo.clearbit.com/SecurianFinancial.com",
+            "average": 25
+        },
+        {
+            "name": "sei investment",
+            "icon": "https://imgur.com/znpFqGV.png",
+            "average": 25
+        },
+        {
+            "name": "shoprunner",
+            "icon": "https://logo.clearbit.com/ShopRunner.com",
+            "average": 25
+        },
+        {
+            "name": "space dynamics lab",
+            "icon": "https://logo.clearbit.com/https:/www.sdl.usu.edu/",
+            "average": 25
+        },
+        {
+            "name": "spectrum",
+            "icon": "https://logo.clearbit.com/Spectrum.com",
+            "average": 25
+        },
+        {
+            "name": "sps commerce",
+            "icon": "https://logo.clearbit.com/SPSCommerce.com",
+            "average": 25
+        },
+        {
+            "name": "sri international",
+            "icon": "https://logo.clearbit.com/SRIInternational.com",
+            "average": 25
+        },
+        {
+            "name": "stanford university",
+            "icon": "https://logo.clearbit.com/Stanford.edu",
+            "average": 25
+        },
+        {
+            "name": "symantec",
+            "icon": "https://i.imgur.com/VNZMjFY.png",
+            "average": 25
+        },
+        {
+            "name": "the aerospace corporation",
+            "icon": "https://imgur.com/r4KBENX.png",
+            "average": 25
+        },
+        {
+            "name": "toyota",
+            "icon": "https://logo.clearbit.com/toyota.com/",
+            "average": 25
+        },
+        {
+            "name": "truveta",
+            "icon": "https://logo.clearbit.com/Truveta.com",
+            "average": 25
+        },
+        {
+            "name": "turnitin",
+            "icon": "https://logo.clearbit.com/https:/www.turnitin.com/",
+            "average": 25
+        },
+        {
+            "name": "ubs",
+            "icon": "https://logo.clearbit.com/UBS.com",
+            "average": 25
+        },
+        {
+            "name": "umba",
+            "icon": "https://logo.clearbit.com/Umba.com",
+            "average": 25
+        },
+        {
+            "name": "usaa",
+            "icon": "https://logo.clearbit.com/USAA.com",
+            "average": 25
+        },
+        {
+            "name": "veterans united",
+            "icon": "https://logo.clearbit.com/VeteransUnited.com",
+            "average": 25
+        },
+        {
+            "name": "vizio",
+            "icon": "https://logo.clearbit.com/VIZIO.com",
+            "average": 25
+        },
+        {
+            "name": "voloridge investment managment",
+            "icon": "https://imgur.com/cDMs7oV.png",
+            "average": 25
+        },
+        {
+            "name": "walker & dunlop",
+            "icon": "https://logo.clearbit.com/https:/www.walkerdunlop.com/",
+            "average": 25
+        },
+        {
+            "name": "whova",
+            "icon": "https://logo.clearbit.com/Whova.com",
+            "average": 25
+        },
+        {
+            "name": "zoll medical corporation",
+            "icon": "https://logo.clearbit.com/Zoll.com",
+            "average": 25
+        }
+    ]
+}
