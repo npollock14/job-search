@@ -74,6 +74,12 @@
 				</tbody>
 			</table>
 		</div>
+	{:else}
+		<div class="flex justify-center">
+			<div class="w-full max-w-lg">
+				<p class="text-center text-gray-500">No results found!</p>
+			</div>
+		</div>
 	{/if}
 </div>
 
