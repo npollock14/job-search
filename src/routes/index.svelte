@@ -1,6 +1,7 @@
 <script>
 	import { companies } from '../stores/companyStore.js';
 	import { fade } from 'svelte/transition';
+	import { onMount } from 'svelte';
 
 	let allCompanies = $companies['companies'];
 
@@ -9,29 +10,84 @@
 	}
 
 	let query = '';
+	let innerWidth = 1000;
+	let smallScreen = false;
+
+	onMount(() => {
+		innerWidth = window.innerWidth;
+		smallScreen = innerWidth < 600;
+		window.addEventListener('keydown', onKeyDown);
+		return () => {
+			window.removeEventListener('keydown', onKeyDown);
+		};
+	});
+
+	let noResults = false;
+	let searchSelected = false;
+
+	$: {
+		smallScreen = innerWidth < 600;
+		noResults = updateNoResults(query);
+	}
+
+	function updateNoResults(query) {
+		if (query.length > 0) {
+			return (
+				allCompanies.filter((company) => company.name.toLowerCase().includes(query.toLowerCase()))
+					.length === 0
+			);
+		} else {
+			return false;
+		}
+	}
+
+	function onKeyDown(e) {
+		if (searchSelected) {
+			return;
+		}
+		//if backspace is hit, remove last character from query
+		if (e.keyCode == 8) {
+			query = query.slice(0, -1);
+		} else {
+			//add character to query
+			query += e.key;
+		}
+	}
 </script>
 
-<div transition:fade={{ duration: 100 }}>
-	<h1 class="text-4xl text-center my-4 uppercase">The List</h1>
-	<div class="flex justify-center w-full">
-		<div class="w-full max-w-lg">
-			<input
-				bind:value={query}
-				class="w-full border border-gray-300 rounded-lg p-2 m-1"
-				type="text"
-				placeholder="Search..."
-			/>
-		</div>
-	</div>
+<svelte:head>
+	<title>The List</title>
+</svelte:head>
 
-	{#if allCompanies.length > 0}
-		<div class="flex flex-wrap justify-center">
-			<table class="w-50 mt-10">
+<svelte:window bind:innerWidth />
+
+<div transition:fade={{ duration: 100 }}>
+	{#if !smallScreen}
+		<h1 class="text-4xl text-center my-4 uppercase">The List</h1>
+
+		<div class="flex justify-center w-full">
+			<div class="w-full max-w-lg">
+				<input
+					bind:value={query}
+					on:focus={() => (searchSelected = true)}
+					on:blur={() => (searchSelected = false)}
+					class="w-full border border-gray-300 rounded-lg p-2 m-1"
+					type="text"
+					placeholder="Search..."
+				/>
+			</div>
+		</div>
+	{/if}
+
+	{#if !noResults}
+		<div class="flex flex-wrap justify-center {smallScreen ? 'small' : ''}">
+			<table class="w-50 mt-{smallScreen ? '0' : '10'}">
 				<thead>
 					<tr>
 						<th>Company</th>
 						<th>Position</th>
 						<th>Pay</th>
+						<th colspan="2">Status</th>
 					</tr>
 				</thead>
 				<tbody>
@@ -54,7 +110,7 @@
 								);
 							}}
 						>
-							<td class="text-left">
+							<td class="text-left {smallScreen ? 'small' : ''}">
 								<img
 									referrerpolicy="no-referrer"
 									src={company.icon}
@@ -67,8 +123,12 @@
 									class="w-32"
 								/>
 							</td>
-							<td class="text-left font-bold" id="nameCol">{company.name}</td>
-							<td class="text-left font-bold">${company.average}/hr</td>
+							<td class="text-left font-bold  {smallScreen ? 'small' : ''}" id="nameCol"
+								>{company.name}</td
+							>
+							<td class="text-left font-bold  {smallScreen ? 'small' : ''}">{company.average}</td>
+							<td bgcolor="green" />
+							<td />
 						</tr>
 					{/each}
 				</tbody>
@@ -91,6 +151,11 @@
 		font-size: xx-large;
 		border: 2px solid black;
 	}
+
+	td.small {
+		height: fit-content;
+	}
+
 	th {
 		border: 2px solid black;
 	}
@@ -100,6 +165,10 @@
 	}
 	.collapsed {
 		visibility: collapse;
+	}
+	.small {
+		max-width: fit-content;
+		font-size: large;
 	}
 
 	#row:hover {

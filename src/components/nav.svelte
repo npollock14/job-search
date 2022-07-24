@@ -5,6 +5,9 @@
 	<div id="navBtn">
 		<a class="mx-4 text-lg" href="/about">About</a>
 	</div>
+	<div id="navBtn">
+		<a class="mx-4 text-lg" href="/login">Login</a>
+	</div>
 </nav>
 
 <style>
