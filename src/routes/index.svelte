@@ -1,5 +1,5 @@
 <script>
-	import { companies } from '../stores/companyStore.js';
+	import { companies, loggedIn, user, smallScreen } from '../stores/companyStore.js';
 	import { fade } from 'svelte/transition';
 	import { onMount } from 'svelte';
 
@@ -11,11 +11,10 @@
 
 	let query = '';
 	let innerWidth = 1000;
-	let smallScreen = false;
 
 	onMount(() => {
 		innerWidth = window.innerWidth;
-		smallScreen = innerWidth < 600;
+		smallScreen.set(innerWidth < 600);
 		window.addEventListener('keydown', onKeyDown);
 		return () => {
 			window.removeEventListener('keydown', onKeyDown);
@@ -26,7 +25,7 @@
 	let searchSelected = false;
 
 	$: {
-		smallScreen = innerWidth < 600;
+		smallScreen.set(innerWidth < 600);
 		noResults = updateNoResults(query);
 	}
 
@@ -62,7 +61,7 @@
 <svelte:window bind:innerWidth />
 
 <div transition:fade={{ duration: 100 }}>
-	{#if !smallScreen}
+	{#if !$smallScreen}
 		<h1 class="text-4xl text-center my-4 uppercase">The List</h1>
 
 		<div class="flex justify-center w-full">
@@ -80,14 +79,16 @@
 	{/if}
 
 	{#if !noResults}
-		<div class="flex flex-wrap justify-center {smallScreen ? 'small' : ''}">
-			<table class="w-50 mt-{smallScreen ? '0' : '10'}">
+		<div class="flex flex-wrap justify-center {$smallScreen ? 'small' : ''}">
+			<table class="w-50 mt-{$smallScreen ? '0' : '10'}">
 				<thead>
 					<tr>
+						<th>Icon</th>
 						<th>Company</th>
-						<th>Position</th>
 						<th>Pay</th>
-						<th colspan="2">Status</th>
+						{#if $loggedIn}
+							<th colspan="2">Status</th>
+						{/if}
 					</tr>
 				</thead>
 				<tbody>
@@ -110,7 +111,7 @@
 								);
 							}}
 						>
-							<td class="text-left {smallScreen ? 'small' : ''}">
+							<td class="text-left {$smallScreen ? 'small' : ''}" id="iconCol">
 								<img
 									referrerpolicy="no-referrer"
 									src={company.icon}
@@ -123,12 +124,14 @@
 									class="w-32"
 								/>
 							</td>
-							<td class="text-left font-bold  {smallScreen ? 'small' : ''}" id="nameCol"
+							<td class="text-left font-bold  {$smallScreen ? 'small' : ''}" id="nameCol"
 								>{company.name}</td
 							>
-							<td class="text-left font-bold  {smallScreen ? 'small' : ''}">{company.average}</td>
-							<td bgcolor="green" />
-							<td />
+							<td class="text-left font-bold  {$smallScreen ? 'small' : ''}">{company.average}</td>
+							{#if $loggedIn}
+								<td bgcolor="green" />
+								<td bgcolor="blue" />
+							{/if}
 						</tr>
 					{/each}
 				</tbody>
@@ -153,7 +156,8 @@
 	}
 
 	td.small {
-		height: fit-content;
+		/* height: fit-content; */
+		/* width: fit-content; */
 	}
 
 	th {
@@ -167,7 +171,7 @@
 		visibility: collapse;
 	}
 	.small {
-		max-width: fit-content;
+		/* max-width: fit-content; */
 		font-size: large;
 	}
 
@@ -179,5 +183,14 @@
 	#nameCol {
 		word-wrap: normal;
 		max-width: 500px;
+	}
+
+	#nameCol.small {
+		max-width: 250px;
+	}
+
+	#iconCol {
+		max-width: fit-content;
+		min-width: 75px;
 	}
 </style>
