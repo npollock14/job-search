@@ -1,5 +1,11 @@
 <script>
-	import { companies, loggedIn, user, smallScreen } from '../stores/companyStore.js';
+	import {
+		companies,
+		loggedIn,
+		user,
+		smallScreen,
+		userCompanyData
+	} from '../stores/companyStore.js';
 	import { fade } from 'svelte/transition';
 	import { onMount } from 'svelte';
 	import { ref, set, get } from 'firebase/database';
@@ -60,24 +66,39 @@
 			username: name,
 			email: email,
 			profile_picture: imageUrl,
-			data: []
+			companies: {
+				template: {
+					interest: '0',
+					applied: '0'
+				}
+			}
 		});
 	}
 
 	async function userExists(userId) {
 		let userRef = ref(db, 'users/' + userId);
-		get(userRef).then((snapshot) => {
-			//if snapshot exists, user exists so return true
-			return snapshot.exists();
-		});
+		let snapshot = await get(userRef);
+		if (snapshot.exists()) {
+			return snapshot.val();
+		} else {
+			return false;
+		}
 	}
 
 	$: {
 		//when user is logged in, write their data to the database
 		if ($loggedIn) {
-			addNewUser($user.uid, $user.displayName, $user.email, $user.photoURL);
-			userExists($user.uid).then((exists) => {
-				console.log('logged in: ' + $user.uid + ' user exists: ' + exists);
+			userExists($user.uid).then((data) => {
+				if (!data) {
+					console.log('user does not exist, creating new user in db');
+					addNewUser($user.uid, $user.displayName, $user.email, $user.photoURL);
+					userCompanyData.set({ companies: {} });
+				} else {
+					console.log('user already exists');
+					//log data
+					userCompanyData.set(JSON.stringify(data));
+					console.log($userCompanyData);
+				}
 			});
 		}
 	}
