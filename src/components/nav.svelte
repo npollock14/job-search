@@ -12,6 +12,7 @@
 				console.log('Successfully signed in!');
 				loggedIn.set(true);
 				user.set(result.user);
+				console.log(result.user.uid);
 			})
 			.catch((error) => {
 				// Handle Errors here.

@@ -2,6 +2,8 @@
 	import { companies, loggedIn, user, smallScreen } from '../stores/companyStore.js';
 	import { fade } from 'svelte/transition';
 	import { onMount } from 'svelte';
+	import { ref, set, get } from 'firebase/database';
+	import { db } from '../firebase.js';
 
 	let allCompanies = $companies['companies'];
 
@@ -50,6 +52,33 @@
 		} else {
 			//add character to query
 			query += e.key;
+		}
+	}
+
+	function addNewUser(userId, name, email, imageUrl) {
+		set(ref(db, 'users/' + userId), {
+			username: name,
+			email: email,
+			profile_picture: imageUrl,
+			data: []
+		});
+	}
+
+	async function userExists(userId) {
+		let userRef = ref(db, 'users/' + userId);
+		get(userRef).then((snapshot) => {
+			//if snapshot exists, user exists so return true
+			return snapshot.exists();
+		});
+	}
+
+	$: {
+		//when user is logged in, write their data to the database
+		if ($loggedIn) {
+			addNewUser($user.uid, $user.displayName, $user.email, $user.photoURL);
+			userExists($user.uid).then((exists) => {
+				console.log('logged in: ' + $user.uid + ' user exists: ' + exists);
+			});
 		}
 	}
 </script>
