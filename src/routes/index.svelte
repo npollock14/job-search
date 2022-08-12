@@ -15,6 +15,10 @@
 
 	function onRightClick(company) {
 		console.log('right clicked on ' + company.name);
+		if ($loggedIn) {
+			set(ref(db, 'users/' + $user.uid + '/companies/' + company.name + '/app'), 'in_progress');
+			// $userCompanyData[company.name]['app'] = 'in_progress';
+		}
 	}
 
 	let query = '';
@@ -68,11 +72,34 @@
 			profile_picture: imageUrl,
 			companies: {
 				template: {
-					interest: '0',
-					applied: '0'
+					app: '',
+					oa: '',
+					interview: '',
+					offer: ''
 				}
 			}
 		});
+	}
+
+	function getBGColor(companyName, field) {
+		//if companys contains companyName
+		let fieldData = $userCompanyData[companyName];
+		if (!fieldData) return '#fff';
+		console.log(fieldData);
+		fieldData = fieldData[field];
+		if (fieldData) {
+			switch (fieldData) {
+				case 'in_progress':
+					return '#f5f5f5';
+				case 'complete':
+					return '#dff0d8';
+				case 'rejected':
+					return '#f2dede';
+				default:
+					return '#fff';
+			}
+		}
+		return '#fff';
 	}
 
 	async function userExists(userId) {
@@ -96,7 +123,7 @@
 				} else {
 					console.log('user already exists');
 					//log data
-					userCompanyData.set(JSON.stringify(data));
+					userCompanyData.set(JSON.stringify(data.companies));
 					console.log($userCompanyData);
 				}
 			});
@@ -133,16 +160,18 @@
 			<table class="w-50 mt-{$smallScreen ? '0' : '10'}">
 				<thead>
 					<tr>
+						<th>#</th>
 						<th>Icon</th>
 						<th>Company</th>
 						<th>Pay</th>
-						{#if $loggedIn}
-							<th colspan="2">Status</th>
-						{/if}
+						<th>AP</th>
+						<th>OA</th>
+						<th>IN</th>
+						<th>OF</th>
 					</tr>
 				</thead>
 				<tbody>
-					{#each allCompanies as company}
+					{#each allCompanies as company, index}
 						<tr
 							id="row"
 							class={query == ''
@@ -156,11 +185,14 @@
 							on:click={() => {
 								// open a new tab searching for the company
 								window.open(
-									`https://www.google.com/search?q=${company.name} software engineer careers`,
+									`https://www.google.com/search?q=${company.name} software engineer internships`,
 									'_blank'
 								);
 							}}
 						>
+							<td>
+								{index + 1}
+							</td>
 							<td class="text-left {$smallScreen ? 'small' : ''}" id="iconCol">
 								<img
 									referrerpolicy="no-referrer"
@@ -178,10 +210,10 @@
 								>{company.name}</td
 							>
 							<td class="text-left font-bold  {$smallScreen ? 'small' : ''}">{company.average}</td>
-							{#if $loggedIn}
-								<td bgcolor="green" />
-								<td bgcolor="blue" />
-							{/if}
+							<td bgcolor={getBGColor(company.name, 'app')} />
+							<td bgcolor={getBGColor(company.name, 'oa')} />
+							<td bgcolor={getBGColor(company.name, 'interview')} />
+							<td bgcolor={getBGColor(company.name, 'offer')} />
 						</tr>
 					{/each}
 				</tbody>
