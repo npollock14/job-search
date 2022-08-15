@@ -8,7 +8,7 @@ export const smallScreen = writable(false);
 export const userCompanyData = writable({ companies: {} });
 
 const fetchData = async () => {
-	const data = JSON.parse(JSON.stringify(companyData));
+	const data = companyData;
 	companies.set(data);
 };
 

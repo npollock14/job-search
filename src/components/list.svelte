@@ -1,7 +1,9 @@
 <script>
 	import SvelteTable from 'svelte-table';
 	import { companies } from '../stores/companyStore';
+	import { userCompanyData } from '../stores/companyStore';
 	import imageComp from './imageComp.svelte';
+	import StatusComp from './StatusComp.svelte';
 	const rows = $companies.companies;
 	// define column configs
 	const columns = [
@@ -54,6 +56,12 @@
 				return Object.values(nums);
 			},
 			filterValue: (v) => Math.floor(v.pay / 10)
+		},
+		{
+			key: 'status',
+			title: 'Status',
+			value: (v) => v.icon,
+			renderComponent: StatusComp
 		}
 	];
 </script>
@@ -69,13 +77,19 @@
 </div>
 
 <style>
-	.table-container :global(.table-striped > tbody > tr:nth-child(even)) {
+	.table-container :global(.table-striped > tbody > tr:nth-child(odd)) {
 		background-color: #f5f5f5;
 	}
 
 	.table-container :global(.table-striped > tbody > tr:hover) {
 		background-color: grey;
 		transition: all 0.1s ease-in-out;
+	}
+
+	.table-container :global(.table > thead > tr > th) {
+		background: #181a1b;
+		color: #fff;
+		padding: 5px;
 	}
 
 	.table-container {

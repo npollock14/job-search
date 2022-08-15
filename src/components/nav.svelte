@@ -1,7 +1,59 @@
 <script>
 	import { auth, provider } from '../firebase.js';
 	import { signInWithPopup, GoogleAuthProvider, signOut } from 'firebase/auth';
-	import { loggedIn, user, smallScreen } from '../stores/companyStore.js';
+	import { loggedIn, user, smallScreen, userCompanyData } from '../stores/companyStore.js';
+	import { ref, set, get, onValue } from 'firebase/database';
+	import { db } from '../firebase.js';
+
+	function addNewUser(userId, name, email, imageUrl) {
+		set(ref(db, 'users/' + userId), {
+			username: name,
+			email: email,
+			profile_picture: imageUrl,
+			companies: {
+				template: {
+					app: '',
+					oa: '',
+					interview: '',
+					offer: ''
+				}
+			}
+		});
+	}
+
+	async function userExists(userId) {
+		let userRef = ref(db, 'users/' + userId);
+		let snapshot = await get(userRef);
+		if (snapshot.exists()) {
+			return snapshot.val();
+		} else {
+			return false;
+		}
+	}
+
+	function onLogin() {
+		console.log('logging in');
+
+		//when user is logged in, write their data to the database
+		if ($loggedIn) {
+			userExists($user.uid).then((data) => {
+				if (!data) {
+					console.log('user does not exist, creating new user in db');
+					addNewUser($user.uid, $user.displayName, $user.email, $user.photoURL);
+					userCompanyData.set({ companies: {} });
+				} else {
+					console.log('user already exists');
+					//log data
+					userCompanyData.set(data.companies);
+					console.log($userCompanyData);
+				}
+				//use onValue to update userCompanyData when userCompanyData is changed
+				onValue(ref(db, 'users/' + $user.uid + '/companies'), (snapshot) => {
+					userCompanyData.set(snapshot.val());
+				});
+			});
+		}
+	}
 
 	function doLogIn() {
 		signInWithPopup(auth, provider)
@@ -13,6 +65,7 @@
 				loggedIn.set(true);
 				user.set(result.user);
 				console.log(result.user.uid);
+				onLogin();
 			})
 			.catch((error) => {
 				// Handle Errors here.
