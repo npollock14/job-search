@@ -12,7 +12,7 @@
 		if ($loggedIn) {
 			boxColor = 'purple';
 			console.log('here');
-			if ($userCompanyData[row.name] !== undefined) {
+			if ($userCompanyData[row.name] !== undefined && $userCompanyData[row.name]['interested'] === '1') {
 				boxColor = 'red';
 			}
 		}
@@ -22,8 +22,18 @@
 		if (!$loggedIn) {
 			return;
 		}
+		console.log('status clicked');
+		//check if user has company data for this company
+		if ($userCompanyData[row.name] !== undefined && $userCompanyData[row.name]['interested'] === '1') {
+			//delete company data
+			console.log('deleting');
+			set(ref(db, 'users/' + $user.uid + '/companies/' + row.name + '/interested'), '0');
+		} else {
+			//add company data
+			console.log('adding');
+			set(ref(db, 'users/' + $user.uid + '/companies/' + row.name + '/interested'), '1');
+		}
 
-		set(ref(db, 'users/' + $user.uid + '/companies/' + row.name + '/app'), 'in_progress');
 	}
 </script>
 

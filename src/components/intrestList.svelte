@@ -5,7 +5,15 @@
 	import imageComp from './imageComp.svelte';
 	import StatusComp from './StatusComp.svelte';
 	let hasStatusCol = false;
-	const rows = $companies.companies;
+	let rows = $companies.companies;
+
+	//filter rows:
+	//$userCompanyData[row.name] !== undefined && $userCompanyData[row.name]['interested'] === '1'
+
+	$: rows = rows.filter((row) => {
+		//check if in userCompanyData and if interested
+		return $userCompanyData[row.name] !== undefined && $userCompanyData[row.name]['interested'] === '1';
+	});
 
 
 	// define column configs

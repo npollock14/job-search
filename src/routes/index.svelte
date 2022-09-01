@@ -72,13 +72,21 @@
 
 <svelte:window bind:innerWidth />
 
+<input type="checkbox" id="includeInterested" />
+<label for="includeInterested">Include Interested</label>
 <div class="list-container">
 	<List />
 </div>
 
 <style>
 	.list-container {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
 		width: 100%;
 		height: 100%;
 	}
+
+	
 </style>

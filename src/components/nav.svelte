@@ -103,6 +103,9 @@
 				<div class="mx-4 text-lg">Logout</div>
 			{/if}
 		</div>
+		<div id="navBtn">
+			<a class="mx-4 text-lg" href="/my_list">My List</a>
+		</div>
 	{:else}
 		<div id="navBtn" on:click={doLogIn}>
 			<div class="mx-4 text-lg">Login</div>
